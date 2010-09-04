@@ -90,4 +90,10 @@ INSTALLED_APPS = (
     'django.contrib.sites',
     'django.contrib.messages',
     'django.contrib.admin',
+    
+    'crowdflower',
+    'pkfloods',
 )
+
+CROWDFLOWER_URL = 'https://crowdflower.com/judgments/mob/18242'
+CROWDFLOWER_EMAIL = 'test@example.com'
