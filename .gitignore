@@ -1,0 +1,5 @@
+*.pyc
+*.pyo
+djangosite/dev.db
+.project
+.pydevproject
