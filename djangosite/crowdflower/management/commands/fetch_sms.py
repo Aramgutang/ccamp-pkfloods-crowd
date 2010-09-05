@@ -17,6 +17,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         saved = 0
+        duplicates = 0
         limit = options.get('limit', 0)
         verbosity = int(options.get('verbosity', 1))
         try:
@@ -36,11 +37,17 @@ class Command(BaseCommand):
             print 'Log in successful.'
         while not limit or saved < limit:
             job = CrowdFlowerParser(fetcher.fetch_one())
-            if not SMS.objects.filter(uid=job.uid).count():
+            if not SMS.objects.filter(uid=job.uid).count() and not SMS.objects.filter(sms=job.sms).count():
                 SMS.objects.create(uid=job.uid, sms=job.sms)
                 if verbosity > 1:
                     print '%s: %s' % (job.uid, job.sms)
                 saved += 1
+            elif verbosity > 1:
+                if SMS.objects.filter(uid=job.uid).count():
+                    print 'Duplicate UID received, ignoring.'
+                else:
+                    print 'Duplicate SMS received, ignoring.'
+                duplicates += 1
             time.sleep(random.randint(0,5))
         if verbosity:
-            print 'Done: %s SMSs saved.' % saved
+            print 'Done: %s SMSs saved (%s duplicates ignored).' % (saved, duplicates)
