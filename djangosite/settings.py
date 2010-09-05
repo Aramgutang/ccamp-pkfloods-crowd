@@ -93,6 +93,9 @@ INSTALLED_APPS = (
     
     'crowdflower',
     'pkfloods',
+    
+    # Uncomment this if you want to use south migrations
+    #'south',
 )
 
 CROWDFLOWER_URL = 'https://crowdflower.com/judgments/mob/18242'
