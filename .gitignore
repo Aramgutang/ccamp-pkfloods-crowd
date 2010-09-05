@@ -1,5 +1,6 @@
 *.pyc
 *.pyo
 djangosite/dev.db
+djangosite/dev.db-journal
 .project
 .pydevproject
