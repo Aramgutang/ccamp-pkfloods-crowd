@@ -6,6 +6,7 @@ class LocationAdmin(admin.ModelAdmin):
 
 class ActionableAdmin(admin.ModelAdmin):
     list_display = ('sms', 'language', 'junk_text',)
+    readonly_fields = ('sms',)
 
 class DamageAssessmentAdmin(admin.ModelAdmin):
     fieldsets = (
