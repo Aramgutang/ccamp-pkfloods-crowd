@@ -37,16 +37,21 @@ class Command(BaseCommand):
             print 'Log in successful.'
         while not limit or saved < limit:
             job = CrowdFlowerParser(fetcher.fetch_one())
-            if not SMS.objects.filter(uid=job.uid).count() and not SMS.objects.filter(sms=job.sms).count():
-                SMS.objects.create(uid=job.uid, sms=job.sms)
-                if verbosity > 1:
-                    print '%s: %s' % (job.uid, job.sms)
-                saved += 1
+            if not SMS.objects.filter(uid=job.uid).count():
+                if not SMS.objects.filter(sms=job.sms).count():
+                    SMS.objects.create(uid=job.uid, sms=job.sms)
+                    if verbosity > 1:
+                        print '%s: %s' % (job.uid, job.sms)
+                    saved += 1
+                else:
+                    existing = SMS.objects.get(sms=job.sms)
+                    existing.aliases = '%s,%s' % (existing.aliases, job.uid) if existing.aliases else job.uid
+                    existing.save()
+                    duplicates += 1
+                    print 'Received duplicate of SMS %s.' % existing.uid
             elif verbosity > 1:
                 if SMS.objects.filter(uid=job.uid).count():
                     print 'Duplicate UID received, ignoring.'
-                else:
-                    print 'Duplicate SMS received, ignoring.'
                 duplicates += 1
             time.sleep(random.randint(0,5))
         if verbosity:
