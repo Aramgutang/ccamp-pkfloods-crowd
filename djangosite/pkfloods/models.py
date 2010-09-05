@@ -1,4 +1,4 @@
-import simplejson, re, urllib, urllib2
+import json, re, urllib, urllib2
 
 from django.conf import settings
 from django.db import models
@@ -65,9 +65,9 @@ class Actionable(ProcessedMessage):
             text = flrx.match(text).groups('text')[0]
         key = 'key=%s&' % settings.GOOGLE_API_KEY if hasattr(settings, 'GOOGLE_API_KEY') else  ''
         url = ('http://ajax.googleapis.com/ajax/services/language/detect'
-               '?v=1.0&q=%s&%suserip=127.0.0.1' % (urllib.urlencode(text), key))
+               '?v=1.0&q=%s&%suserip=127.0.0.1' % (urllib.quote(text), key))
         request = urllib2.Request(url, None, {'Referer': getattr(settings, 'GOOGLE_API_DOMAIN', 'http://localhost:8000')})
-        results = simplejson.load(urllib2.urlopen(request))
+        results = json.load(urllib2.urlopen(request))
         if float(results['responseData']['confidence']) > 0.01:
             language = results['responseData']['language']
             if language in LANGUAGES.keys():
@@ -106,5 +106,5 @@ class DamageAssessment(ProcessedMessage):
     still_flooded = models.NullBooleanField()
     
     def process_and_save(self):
-        
+        return
         self.save()

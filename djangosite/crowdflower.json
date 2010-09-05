@@ -29,7 +29,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: dadu mirbahar (UC Faqir Noohthinai). 30 houses of which 10 have been destroyed and 12 damaged. 25% of crops destroyed. Water has receded", 
       "uid": "u31513554", 
-      "aliases": "u31513552,u31513547,u31513541,u31513547,u31513552"
+      "aliases": "u31513552,u31513547,u31513541,u31513547,u31513552,u31513547"
     }
   }, 
   {
@@ -51,7 +51,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Karim abad (UC Mahmoo-aa-Bagh). 23 houses of which 23 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513136", 
-      "aliases": "u31513135,u31513141"
+      "aliases": "u31513135,u31513141,u31513135,u31513141,u31513135"
     }
   }, 
   {
@@ -73,7 +73,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Hakim Burriro (UC Garhi Dakho). 47 houses of which 47 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513105", 
-      "aliases": "u31513107"
+      "aliases": "u31513107,u31513107"
     }
   }, 
   {
@@ -95,7 +95,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Yaroo Chachar (UC Quadir Pur) 36 houses", 
       "uid": "u31564611", 
-      "aliases": "u31564610"
+      "aliases": "u31564610,u31564610,u31564610"
     }
   }, 
   {
@@ -150,7 +150,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mehar Mashori (UC Allahabad). 15 houses of which 15 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514104", 
-      "aliases": "u31514105,u31514106"
+      "aliases": "u31514105,u31514106,u31514106,u31514106,u31514105"
     }
   }, 
   {
@@ -161,7 +161,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: malhi Lakhiar (UC Shah punjo). 26 houses of which 5 have been destroyed and 10 damaged. 10% of crops destroyed. Village is still flooded", 
       "uid": "u31514120", 
-      "aliases": "u31514136,u31514136"
+      "aliases": "u31514136,u31514136,u31514136,u31514136"
     }
   }, 
   {
@@ -183,7 +183,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Lalan Bharo (UC Quadir Pur) 32 houses", 
       "uid": "u31564629", 
-      "aliases": "u31564628,u31564631,u31564631,u31564628,u31564631,u31564628"
+      "aliases": "u31564628,u31564631,u31564631,u31564628,u31564631,u31564628,u31564628,u31564631"
     }
   }, 
   {
@@ -194,7 +194,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Old Ibrahim Mahar (UC Bhetoor), pop: 55 adults, 39 children. 25 houses: 10 destroyed and 5 damaged. Livestock lost: 5 goats, 5 cows, 3 buffalo. Crops lost: 109 acres. Other losses: 109kms of road, 1 school, 4 poultry farms", 
       "uid": "u31564408", 
-      "aliases": "u31564410,u31564470,u31564470"
+      "aliases": "u31564410,u31564470,u31564470,u31564470"
     }
   }, 
   {
@@ -216,7 +216,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rato Sondharo (UC Rahimabad). 35 houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513244", 
-      "aliases": "u31513235"
+      "aliases": "u31513235,u31513235"
     }
   }, 
   {
@@ -238,7 +238,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Faqeer Mahar (UC Bhetoor), pop: 145 adults, 105 children. 25 houses: 9 destroyed and 4 damaged. Livestock lost: 1 goat, 2 cows, 1 buffalo. Crops lost: 100 acres. Other losses: 60kms of road", 
       "uid": "u31564440", 
-      "aliases": "u31564499,u31564499"
+      "aliases": "u31564499,u31564499,u31564499"
     }
   }, 
   {
@@ -249,7 +249,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Iqbal Muhammad Pahore (UC Rahimabad). Details: Total 60 Houses of which 60 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134039", 
-      "aliases": "u32134037"
+      "aliases": "u32134037,u32134037"
     }
   }, 
   {
@@ -260,7 +260,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Arzuo Jatoi (UC Siyal). 13 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514437", 
-      "aliases": "u31514433,u31514407"
+      "aliases": "u31514433,u31514407,u31514407,u31514433"
     }
   }, 
   {
@@ -326,7 +326,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Haji Misri Khan Ghurmani  (UC Siyal). 14 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514204", 
-      "aliases": "u31514219,u31514207,u31514219"
+      "aliases": "u31514219,u31514207,u31514219,u31514207,u31514219,u31514207"
     }
   }, 
   {
@@ -337,7 +337,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Yousif Tunio (UC Garhi Tegho). Details: Total 40 Houses of which 40 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134079", 
-      "aliases": "u32134078"
+      "aliases": "u32134078,u32134078"
     }
   }, 
   {
@@ -348,7 +348,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Allah Rakhio Jatoi (UC Siyal). 3 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514504", 
-      "aliases": "u31514518,u31514518"
+      "aliases": "u31514518,u31514518,u31514468,u31514480,u31514468,u31514524"
     }
   }, 
   {
@@ -359,7 +359,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Jan Magsi (UC Phulji). 27 houses of which 6 have been destroyed and 21 damaged. 2100% of crops destroyed. Village is still flooded", 
       "uid": "u31514049", 
-      "aliases": "u31514048,u31514064,u31514041,u31514064,u31514048,u31514065,u31514048"
+      "aliases": "u31514048,u31514064,u31514041,u31514064,u31514048,u31514065,u31514048,u31514064,u31514065,u31514048,u31514041,u31514064"
     }
   }, 
   {
@@ -370,7 +370,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Lali Goth (UC Bali Shah). 83 houses of which 13 have been destroyed and 9 damaged. 75% of crops destroyed. Village is still flooded", 
       "uid": "u31513912", 
-      "aliases": "u31513914,u31513927"
+      "aliases": "u31513914,u31513927,u31513937,u31513937,u31513914"
     }
   }, 
   {
@@ -381,7 +381,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mithan Pahor (UC Pir Bux Shujrah). 20 houses of which 20 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512935", 
-      "aliases": "u31512934"
+      "aliases": "u31512934,u31512934,u31512934"
     }
   }, 
   {
@@ -414,7 +414,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: moso shoro (UC Faqir Noohthinai). 20 houses of which 10 have been destroyed and 10 damaged. 10% of crops destroyed. Water has receded", 
       "uid": "u31513550", 
-      "aliases": "u31513548,u31513548,u31513536,u31513548"
+      "aliases": "u31513548,u31513548,u31513536,u31513548,u31513548,u31513536"
     }
   }, 
   {
@@ -425,7 +425,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Datoo Pahore (UC Rahimabad). 25 houses of which 25 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513251", 
-      "aliases": ""
+      "aliases": "u31513252"
     }
   }, 
   {
@@ -436,7 +436,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Moreed Shahani (UC Mounder). 28 houses of which 12 have been destroyed and 8 damaged. 62% of crops destroyed. Village is still flooded", 
       "uid": "u31513797", 
-      "aliases": "u31513778,u31513781,u31513778,u31513781,u31513778"
+      "aliases": "u31513778,u31513781,u31513778,u31513781,u31513778,u31513778,u31513781"
     }
   }, 
   {
@@ -458,7 +458,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Punhal Sanjerani (UC Rahimabad). Details: Total 20 Houses of which 20 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133982", 
-      "aliases": "u32133983"
+      "aliases": "u32133983,u32133983"
     }
   }, 
   {
@@ -469,7 +469,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Purano Dero (UC Phulji). 364 houses and 223 damaged. 223% of crops destroyed. Village is still flooded", 
       "uid": "u31513983", 
-      "aliases": "u31514005,u31514005"
+      "aliases": "u31514005,u31514005,u31514005,u31514005"
     }
   }, 
   {
@@ -480,7 +480,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Tharo Khan Dawachh (UC Phulji). 24 houses of which 5 have been destroyed and 19 damaged. 19% of crops destroyed. Village is still flooded", 
       "uid": "u31513976", 
-      "aliases": "u31514001"
+      "aliases": "u31514001,u31514001"
     }
   }, 
   {
@@ -491,7 +491,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ropahi (UC Mahmoo-aa-Bagh). 35 houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513158", 
-      "aliases": "u31513163,u31513163,u31513154,u31513163"
+      "aliases": "u31513163,u31513163,u31513154,u31513163,u31513154"
     }
   }, 
   {
@@ -502,7 +502,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: usman balal (UC Bhanoth). 15 houses of which 4 have been destroyed. 8% of crops destroyed. Water has receded", 
       "uid": "u31513436", 
-      "aliases": "u31513431,u31513442"
+      "aliases": "u31513431,u31513442,u31513442"
     }
   }, 
   {
@@ -524,7 +524,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Budho Lund (UC Siyal). 28 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514230", 
-      "aliases": "u31514226,u31514276,u31514226"
+      "aliases": "u31514226,u31514276,u31514226,u31514247,u31514229,u31514247,u31514226"
     }
   }, 
   {
@@ -557,7 +557,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ismail Soomro (UC Quadir Pur) 26 houses", 
       "uid": "u31564621", 
-      "aliases": "u31564620"
+      "aliases": "u31564620,u31564624,u31564620"
     }
   }, 
   {
@@ -568,7 +568,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dabhi (UC Shah punjo). 88 houses of which 15 have been destroyed and 10 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514155", 
-      "aliases": "u31514139,u31514137,u31514137"
+      "aliases": "u31514139,u31514137,u31514137,u31514139"
     }
   }, 
   {
@@ -601,7 +601,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ghulam Qadir Jatoi (UC Mahmoo-aa-Bagh). 35 houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513127", 
-      "aliases": "u31513125"
+      "aliases": "u31513125,u31513125"
     }
   }, 
   {
@@ -612,7 +612,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khuda Bux Shah (UC Mahmoo-aa-Bagh). Details: Total 32 Houses of which 32 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133927", 
-      "aliases": ""
+      "aliases": "u32133928"
     }
   }, 
   {
@@ -645,7 +645,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Murad (Bashirabad) (UC Rahimabad). Details: Total 76 Houses of which 76 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134028", 
-      "aliases": "u32134027,u32134027"
+      "aliases": "u32134027,u32134027,u32134027"
     }
   }, 
   {
@@ -656,7 +656,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Old Saeed Abad (UC saeedabad). 1200 houses of which 60 have been destroyed and 60 damaged. 46% of crops destroyed. Water has receded", 
       "uid": "u31513595", 
-      "aliases": "u31513604"
+      "aliases": "u31513604,u31513605,u31513605,u31513604"
     }
   }, 
   {
@@ -667,7 +667,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rato Pahore (UC Rahimabad). Details: Total 35 Houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134005", 
-      "aliases": "u32134006,u32134006"
+      "aliases": "u32134006,u32134006,u32134006"
     }
   }, 
   {
@@ -689,7 +689,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Nari (UC Shah punjo). 230 houses of which 110 have been destroyed and 55 damaged. 55% of crops destroyed. Village is still flooded", 
       "uid": "u31514162", 
-      "aliases": "u31514176,u31514144,u31514142"
+      "aliases": "u31514176,u31514144,u31514142,u31514144,u31514142"
     }
   }, 
   {
@@ -700,7 +700,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Doro Chandio (UC Siyal). 36 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514289", 
-      "aliases": "u31514298,u31514298"
+      "aliases": "u31514298,u31514298,u31514298,u31514298,u31514290"
     }
   }, 
   {
@@ -711,7 +711,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Haji Ahmd Bughio (UC Khudabad). 900 houses of which 12 have been destroyed and 20 damaged. 67% of crops destroyed. Village is still flooded", 
       "uid": "u31513771", 
-      "aliases": "u31513758,u31513767"
+      "aliases": "u31513758,u31513767,u31513767"
     }
   }, 
   {
@@ -722,7 +722,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mulaan Gahuno0 (UC Quadir Pur) 21 houses: 11 destroyed", 
       "uid": "u31564565", 
-      "aliases": "u31564564,u31564564,u31564564"
+      "aliases": "u31564564,u31564564,u31564564,u31564564"
     }
   }, 
   {
@@ -733,7 +733,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Buxal Jamali (UC Siyal). 6 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514570", 
-      "aliases": "u31514579,u31514628"
+      "aliases": "u31514579,u31514628,u31514579,u31514579"
     }
   }, 
   {
@@ -744,7 +744,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Niaz Bughio (UC Khudabad). 120 houses of which 5 have been destroyed and 3 damaged. 93% of crops destroyed. Water has receded", 
       "uid": "u31513760", 
-      "aliases": "u31513766,u31513766"
+      "aliases": "u31513766,u31513766,u31513766"
     }
   }, 
   {
@@ -766,7 +766,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Chutto Chachar (UC Quadir Pur) 40 houses", 
       "uid": "u31564603", 
-      "aliases": "u31564605,u31564601,u31564605"
+      "aliases": "u31564605,u31564601,u31564605,u31564601"
     }
   }, 
   {
@@ -788,7 +788,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Salar Bhatti (UC Rahimabad). 69 houses of which 69 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513222", 
-      "aliases": "u31513227,u31513232,u31513227,u31513232"
+      "aliases": "u31513227,u31513232,u31513227,u31513232,u31513227,u31513232,u31513227"
     }
   }, 
   {
@@ -799,7 +799,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: yaar Mohammad Khoso (UC Shah Alam Shah Ji Wasi). 22 houses of which 22 have been destroyed. 6% of crops destroyed. Water has receded", 
       "uid": "u31513671", 
-      "aliases": "u31513678,u31513679,u31513679,u31513677,u31513679"
+      "aliases": "u31513678,u31513679,u31513679,u31513677,u31513679,u31513679,u31513678,u31513677,u31513679"
     }
   }, 
   {
@@ -810,7 +810,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Baradi Panhwar (UC Siyal). 44 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514599", 
-      "aliases": "u31514589,u31514589"
+      "aliases": "u31514589,u31514589,u31514543,u31514577"
     }
   }, 
   {
@@ -832,7 +832,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Talib Machi (UC Shah Alam Shah Ji Wasi). 45 houses of which 45 have been destroyed. 67% of crops destroyed. Water has receded", 
       "uid": "u31513682", 
-      "aliases": "u31513684"
+      "aliases": "u31513684,u31513684,u31513684"
     }
   }, 
   {
@@ -843,7 +843,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gulab Jo Goth (UC Naon Goth). 18 houses of which 6 have been destroyed and 5 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513919", 
-      "aliases": "u31513922"
+      "aliases": "u31513922,u31513922"
     }
   }, 
   {
@@ -865,7 +865,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Bangal Leghari (UC Siyal). 6 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514509", 
-      "aliases": "u31514502,u31514536,u31514545,u31514502"
+      "aliases": "u31514502,u31514536,u31514545,u31514502,u31514500,u31514559,u31514502,u31514545,u31514500,u31514536"
     }
   }, 
   {
@@ -887,7 +887,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Raza Muhammad  (UC Pir Bux Shujrah). 52 houses of which 52 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512984", 
-      "aliases": "u31512981,u31512981"
+      "aliases": "u31512981,u31512981,u31512981,u31512981"
     }
   }, 
   {
@@ -898,7 +898,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Khan Khand (UC Siyal). 29 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514656", 
-      "aliases": "u31514610,u31514658,u31514612,u31514612,u31514658,u31514610,u31514612,u31514658"
+      "aliases": "u31514610,u31514658,u31514612,u31514612,u31514658,u31514610,u31514612,u31514658,u31514612,u31514658,u31514610,u31514612,u31514658"
     }
   }, 
   {
@@ -964,7 +964,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Allah Rakhio Lund (UC Siyal). 30 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514248", 
-      "aliases": "u31514218,u31514232,u31514217,u31514218,u31514232,u31514232,u31514217"
+      "aliases": "u31514218,u31514232,u31514217,u31514218,u31514232,u31514232,u31514217,u31514218,u31514232,u31514217"
     }
   }, 
   {
@@ -986,7 +986,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Noor Muhammad Shujra (UC Rahimabad). 190 houses of which 190 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513265", 
-      "aliases": "u31513274,u31513274"
+      "aliases": "u31513274,u31513274,u31513274"
     }
   }, 
   {
@@ -997,7 +997,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ibrahim Shah (UC Mahmoo-aa-Bagh). 175 houses of which 175 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513119", 
-      "aliases": "u31513118"
+      "aliases": "u31513118,u31513118,u31513118"
     }
   }, 
   {
@@ -1008,7 +1008,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mounder (UC Mounder). 1100 houses of which 100 have been destroyed and 250 damaged. 70% of crops destroyed. Village is still flooded", 
       "uid": "u31513784", 
-      "aliases": "u31513787,u31513787,u31513773,u31513773,u31513780,u31513787"
+      "aliases": "u31513787,u31513787,u31513773,u31513773,u31513780,u31513787,u31513773,u31513773,u31513780"
     }
   }, 
   {
@@ -1019,7 +1019,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dilawer Shujra (UC Rahimabad). 82 houses of which 82 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513219", 
-      "aliases": "u31513210,u31513215,u31513215"
+      "aliases": "u31513210,u31513215,u31513215,u31513215"
     }
   }, 
   {
@@ -1030,7 +1030,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Hyder Jamali (UC Siyal). 10 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514668", 
-      "aliases": "u31514640,u31514640,u31514670,u31514640"
+      "aliases": "u31514640,u31514640,u31514670,u31514640,u31514670,u31514640,u31514639,u31514636"
     }
   }, 
   {
@@ -1041,7 +1041,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: bangule (UC Bhanoth). 6 houses of which 6 have been destroyed. 5% of crops destroyed. Water has receded", 
       "uid": "u31513489", 
-      "aliases": ""
+      "aliases": "u31513494"
     }
   }, 
   {
@@ -1063,7 +1063,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Bux Muhrai (UC Allahabad). 21 houses of which 21 have been destroyed. 73% of crops destroyed. Village is still flooded", 
       "uid": "u31514080", 
-      "aliases": ""
+      "aliases": "u31514098"
     }
   }, 
   {
@@ -1074,7 +1074,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Yousif Chachar  (UC Pir Bux Shujrah). 50 houses of which 50 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512979", 
-      "aliases": ""
+      "aliases": "u31512982,u31512982"
     }
   }, 
   {
@@ -1085,7 +1085,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mazar ja Ghar (UC Mahmoo-aa-Bagh). 85 houses of which 85 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513151", 
-      "aliases": "u31513159,u31513159"
+      "aliases": "u31513159,u31513159,u31513159,u31513159"
     }
   }, 
   {
@@ -1107,7 +1107,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Allahdad Siyal (UC Phulji). 28 houses and 28 damaged. 28% of crops destroyed. Village is still flooded", 
       "uid": "u31514039", 
-      "aliases": "u31514016,u31514022,u31514017,u31514040,u31514022"
+      "aliases": "u31514016,u31514022,u31514017,u31514040,u31514022,u31514016,u31514040,u31514016,u31514040"
     }
   }, 
   {
@@ -1118,7 +1118,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mathu Khan Shahani (UC Mounder). 19 houses of which 11 have been destroyed and 9 damaged. 60% of crops destroyed. Village is still flooded", 
       "uid": "u31513803", 
-      "aliases": "u31513818,u31513823,u31513804"
+      "aliases": "u31513818,u31513823,u31513804,u31513823,u31513823,u31513823"
     }
   }, 
   {
@@ -1162,7 +1162,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Kehar Mahar (UC Bhetoor), pop: 95 adults, 68 children. 18 houses: 5 destroyed and 12 damaged. Livestock lost: 12 goats, 8 cows, 6 buffalo. Crops lost: 180 acres. Other losses: 180kms of road, 1 school", 
       "uid": "u31564414", 
-      "aliases": "u31564415,u31564475,u31564473,u31564415,u31564475"
+      "aliases": "u31564415,u31564475,u31564473,u31564415,u31564475,u31564473,u31564415,u31564473,u31564475,u31564415"
     }
   }, 
   {
@@ -1173,7 +1173,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Roshanabad (UC Rahimabad). 55 houses of which 55 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513234", 
-      "aliases": "u31513233,u31513233"
+      "aliases": "u31513233,u31513233,u31513233,u31513243"
     }
   }, 
   {
@@ -1195,7 +1195,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ghaheela Pako (UC Matiari-1). 25 houses of which 10 have been destroyed and 15 damaged. 30% of crops destroyed. Water has receded", 
       "uid": "u31513706", 
-      "aliases": "u31513698"
+      "aliases": "u31513698,u31513698"
     }
   }, 
   {
@@ -1217,7 +1217,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Bux Bughio (UC Siyal). 4 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514449", 
-      "aliases": "u31514495"
+      "aliases": "u31514495,u31514487"
     }
   }, 
   {
@@ -1239,7 +1239,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: tajo laghari (UC Faqir Noohthinai). 25 houses of which 10 have been destroyed and 12 damaged. 20% of crops destroyed. Water has receded", 
       "uid": "u31513514", 
-      "aliases": "u31513513,u31513504,u31513520"
+      "aliases": "u31513513,u31513504,u31513520,u31513520"
     }
   }, 
   {
@@ -1250,7 +1250,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Jaro Kalhoro (UC Naon Goth). 30 houses of which 7 have been destroyed and 18 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513879", 
-      "aliases": "u31513887,u31513866,u31513887"
+      "aliases": "u31513887,u31513866,u31513887,u31513866,u31513887"
     }
   }, 
   {
@@ -1272,7 +1272,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mahmood Patni (UC Siyal). 56 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514453", 
-      "aliases": "u31514424"
+      "aliases": "u31514424,u31514424,u31514473"
     }
   }, 
   {
@@ -1294,7 +1294,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Qaim Khan Kharal (UC Siyal). 57 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514335", 
-      "aliases": "u31514331,u31514354"
+      "aliases": "u31514331,u31514354,u31514354,u31514331,u31514354"
     }
   }, 
   {
@@ -1305,7 +1305,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Noorja (UC Siyal). 80 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514421", 
-      "aliases": "u31514411,u31514467,u31514411"
+      "aliases": "u31514411,u31514467,u31514411,u31514411,u31514448"
     }
   }, 
   {
@@ -1327,7 +1327,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Shadi Faqeer (UC Siyal). 4 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514465", 
-      "aliases": "u31514436,u31514471,u31514438,u31514482"
+      "aliases": "u31514436,u31514471,u31514438,u31514482,u31514482,u31514482,u31514429"
     }
   }, 
   {
@@ -1360,7 +1360,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gogo Pahore (UC Rahimabad). 34 houses of which 34 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513296", 
-      "aliases": "u31513309,u31513301,u31513301"
+      "aliases": "u31513309,u31513301,u31513301,u31513301,u31513309"
     }
   }, 
   {
@@ -1382,7 +1382,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gul Mohammed Shahani (UC Mounder). 17 houses of which 9 have been destroyed and 4 damaged. 73% of crops destroyed. Village is still flooded", 
       "uid": "u31513801", 
-      "aliases": "u31513802,u31513802"
+      "aliases": "u31513802,u31513802,u31513802"
     }
   }, 
   {
@@ -1393,7 +1393,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Andal Mahar (UC Bhetoor), pop: 150 adults, 150 children. 32 houses: 0 destroyed and 2 damaged. Livestock lost: 4 goats, 1 cow. Crops lost: 200 acres. Other losses: 160kms of road, 4 poultry farms", 
       "uid": "u31564487", 
-      "aliases": "u31564426,u31564426"
+      "aliases": "u31564426,u31564426,u31564426,u31564426"
     }
   }, 
   {
@@ -1404,7 +1404,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khamiso Machhi (UC saeedabad). 300 houses of which 300 have been destroyed. 67% of crops destroyed. Water has receded", 
       "uid": "u31513607", 
-      "aliases": "u31513616,u31513615"
+      "aliases": "u31513616,u31513615,u31513616,u31513615"
     }
   }, 
   {
@@ -1415,7 +1415,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Nawaz Khaskheli (UC Hala-1). 55 houses of which 3 have been destroyed and 20 damaged. 25% of crops destroyed. Water has receded", 
       "uid": "u31513637", 
-      "aliases": "u31513642,u31513640,u31513642"
+      "aliases": "u31513642,u31513640,u31513642,u31513642"
     }
   }, 
   {
@@ -1448,7 +1448,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Malhi Lakhir (UC Naon Goth). 30 houses of which 7 have been destroyed and 21 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513884", 
-      "aliases": "u31513900,u31513900"
+      "aliases": "u31513900,u31513900,u31513900,u31513900"
     }
   }, 
   {
@@ -1470,7 +1470,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dorai Faqir (UC Pir Bux Shujrah). 35 houses of which 35 have been destroyed. 100% of crops destroyed. Water has receded", 
       "uid": "u31512927", 
-      "aliases": ""
+      "aliases": "u31512929"
     }
   }, 
   {
@@ -1481,7 +1481,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: sawan bhacho (UC Hala Old). 19 houses. 34% of crops destroyed. Village is still flooded", 
       "uid": "u31513512", 
-      "aliases": "u31513519,u31513528"
+      "aliases": "u31513519,u31513528,u31513528"
     }
   }, 
   {
@@ -1492,7 +1492,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: haji ibraheem khaskheli (UC Faqir Noohthinai). 64 houses of which 10 have been destroyed and 17 damaged. 40% of crops destroyed. Water has receded", 
       "uid": "u31513515", 
-      "aliases": "u31513510"
+      "aliases": "u31513510,u31513510,u31513510"
     }
   }, 
   {
@@ -1503,7 +1503,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Jan Mohd Khushik (UC Siyal). 39 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514682", 
-      "aliases": "u31514675,u31514649,u31514651,u31514652,u31514649,u31514652,u31514675"
+      "aliases": "u31514675,u31514649,u31514651,u31514652,u31514649,u31514652,u31514675,u31514649,u31514675,u31514651"
     }
   }, 
   {
@@ -1514,7 +1514,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Tharo Chandio (UC Siyal). 3 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514386", 
-      "aliases": "u31514346,u31514368,u31514365,u31514368"
+      "aliases": "u31514346,u31514368,u31514365,u31514368,u31514365,u31514343,u31514368"
     }
   }, 
   {
@@ -1525,7 +1525,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Villlage Siyal  (UC Siyal). 244 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514239", 
-      "aliases": "u31514240,u31514260,u31514260,u31514269,u31514260,u31514240"
+      "aliases": "u31514240,u31514260,u31514260,u31514269,u31514260,u31514240,u31514260,u31514269,u31514240"
     }
   }, 
   {
@@ -1536,7 +1536,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khoto Kharal (UC Siyal). 22 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514358", 
-      "aliases": "u31514387,u31514404"
+      "aliases": "u31514387,u31514404,u31514404"
     }
   }, 
   {
@@ -1547,7 +1547,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Bullo Khan Shahani  (UC Mounder). 14 houses of which 8 have been destroyed and 3 damaged. 60% of crops destroyed. Village is still flooded", 
       "uid": "u31513812", 
-      "aliases": "u31513795"
+      "aliases": "u31513795,u31513795,u31513808"
     }
   }, 
   {
@@ -1558,7 +1558,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rakhyi Jhangwani (UC Pir Bux Shujrah). 35 houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512930", 
-      "aliases": "u31512931"
+      "aliases": "u31512931,u31512931"
     }
   }, 
   {
@@ -1569,7 +1569,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Hashim Sobcho (UC saeedabad). 20 houses of which 20 have been destroyed. 10% of crops destroyed. Water has receded", 
       "uid": "u31513627", 
-      "aliases": "u31513626"
+      "aliases": "u31513626,u31513618,u31513626"
     }
   }, 
   {
@@ -1591,7 +1591,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Noor Muhammad Brohi (UC Khanpur). Details: Total 265 Houses. Water has receded", 
       "uid": "u32133953", 
-      "aliases": ""
+      "aliases": "u32133954,u32133954"
     }
   }, 
   {
@@ -1602,7 +1602,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Kando Sondiro (UC Rahimabad). 62 houses of which 62 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513286", 
-      "aliases": ""
+      "aliases": "u31513295,u31513282"
     }
   }, 
   {
@@ -1646,7 +1646,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Wahi Beem Shah (UC Jarwar), pop: 90 adults, 80 children. 15 houses: 1 destroyed and 15 damaged. Crops lost: 64 acres. Other losses: 55kms of road, 1 school", 
       "uid": "u31564389", 
-      "aliases": "u31564388,u31564388,u31564388"
+      "aliases": "u31564388,u31564388,u31564388,u31564388,u31564388"
     }
   }, 
   {
@@ -1657,7 +1657,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rustam Gurmani (UC Siyal). 5 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514544", 
-      "aliases": "u31514505,u31514508"
+      "aliases": "u31514505,u31514508,u31514516,u31514516"
     }
   }, 
   {
@@ -1668,7 +1668,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: sher Mohammad Thorha (UC Faqir Noohthinai). 77 houses of which 10 have been destroyed and 5 damaged. 25% of crops destroyed. Water has receded", 
       "uid": "u31513493", 
-      "aliases": ""
+      "aliases": "u31513495,u31513486"
     }
   }, 
   {
@@ -1723,7 +1723,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mir Mohd Bughio (UC Khudabad). 400 houses of which 25 have been destroyed and 22 damaged. 100% of crops destroyed. Water has receded", 
       "uid": "u31513745", 
-      "aliases": "u31513734,u31513752,u31513752,u31513734"
+      "aliases": "u31513734,u31513752,u31513752,u31513734,u31513747"
     }
   }, 
   {
@@ -1745,7 +1745,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Aanb Magsi (UC Naon Goth). 40 houses of which 21 have been destroyed and 9 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513905", 
-      "aliases": "u31513911"
+      "aliases": "u31513911,u31513911,u31513911"
     }
   }, 
   {
@@ -1756,7 +1756,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Budhi Mai (UC Pir Bux Shujrah). 28 houses of which 28 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512966", 
-      "aliases": "u31512967,u31512967"
+      "aliases": "u31512967,u31512967,u31512967"
     }
   }, 
   {
@@ -1767,7 +1767,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Budho Faqir (UC Phulji). 41 houses of which 6 have been destroyed and 31 damaged. 75% of crops destroyed. Village is still flooded", 
       "uid": "u31513967", 
-      "aliases": "u31513954,u31513957,u31513954"
+      "aliases": "u31513954,u31513957,u31513954,u31513957,u31513954,u31513954"
     }
   }, 
   {
@@ -1778,7 +1778,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Daudero (UC Shah punjo). 270 houses of which 89 have been destroyed and 40 damaged. 40% of crops destroyed. Village is still flooded", 
       "uid": "u31514165", 
-      "aliases": "u31514134"
+      "aliases": "u31514134,u31514134"
     }
   }, 
   {
@@ -1789,7 +1789,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ibrahim Shah (UC Mahmoo-aa-Bagh). Details: Total 175 Houses of which 175 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133912", 
-      "aliases": "u32133911,u32133911"
+      "aliases": "u32133911,u32133911,u32133911"
     }
   }, 
   {
@@ -1800,7 +1800,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Haji M Gabol (UC Jarwar), pop: 68 adults, 40 children. 10 houses: 1 destroyed and 3 damaged. Livestock lost: 2 goats. Crops lost: 100 acres. Other losses: 45kms of road, 1 school", 
       "uid": "u31564397", 
-      "aliases": "u31564396"
+      "aliases": "u31564396,u31564396,u31564396"
     }
   }, 
   {
@@ -1811,7 +1811,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ghar Marri (UC Siyal). 8 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514521", 
-      "aliases": "u31514557"
+      "aliases": "u31514557,u31514574,u31514550,u31514557"
     }
   }, 
   {
@@ -1833,7 +1833,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Nawaz Khokhar (UC Phulji). 43 houses of which 12 have been destroyed and 31 damaged. 3100% of crops destroyed. Village is still flooded", 
       "uid": "u31514056", 
-      "aliases": "u31514043"
+      "aliases": "u31514043,u31514043"
     }
   }, 
   {
@@ -1844,7 +1844,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mirzo Jatoi (UC Siyal). 8 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514488", 
-      "aliases": "u31514458,u31514507,u31514497"
+      "aliases": "u31514458,u31514507,u31514497,u31514460,u31514507,u31514458"
     }
   }, 
   {
@@ -1877,7 +1877,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Suleman Pahore (UC Rahimabad). Details: Total 54 Houses of which 54 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133966", 
-      "aliases": "u32133967,u32133967"
+      "aliases": "u32133967,u32133967,u32133967"
     }
   }, 
   {
@@ -1888,7 +1888,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Chutto Mastoi (UC Siyal). 132 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514388", 
-      "aliases": "u31514395"
+      "aliases": "u31514395,u31514426"
     }
   }, 
   {
@@ -1943,7 +1943,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gulan Bughio (UC Siyal). 5 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514444", 
-      "aliases": "u31514470"
+      "aliases": "u31514470,u31514470"
     }
   }, 
   {
@@ -1965,7 +1965,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: lalo machi (UC Faqir Noohthinai). 12 houses of which 7 have been destroyed. 27% of crops destroyed. Water has receded", 
       "uid": "u31513546", 
-      "aliases": "u31513538"
+      "aliases": "u31513538,u31513533,u31513538"
     }
   }, 
   {
@@ -2020,7 +2020,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Mahar (UC Bhetoor), pop: 163 adults, 121 children. 41 houses: 2 destroyed and 6 damaged. Livestock lost: 2 goats, 2 buffalo. Crops lost: 310 acres. Other losses: 310kms of road", 
       "uid": "u31564435", 
-      "aliases": "u31564437,u31564437"
+      "aliases": "u31564437,u31564437,u31564437"
     }
   }, 
   {
@@ -2031,7 +2031,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gulan Lakhir (UC Naon Goth). 30 houses of which 8 have been destroyed and 12 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513896", 
-      "aliases": "u31513875,u31513901"
+      "aliases": "u31513875,u31513901,u31513875,u31513901,u31513875,u31513901"
     }
   }, 
   {
@@ -2053,7 +2053,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Jakhraja (UC Siyal). 499 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514673", 
-      "aliases": "u31514641,u31514645,u31514646,u31514641,u31514646"
+      "aliases": "u31514641,u31514645,u31514646,u31514641,u31514646,u31514641"
     }
   }, 
   {
@@ -2075,7 +2075,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Qasim Chachar (UC Quadir Pur) 5 houses. Livestock lost: 5 goats. Other losses: 21kms of road, 720 acres of wheat lost", 
       "uid": "u31564535", 
-      "aliases": ""
+      "aliases": "u31564537"
     }
   }, 
   {
@@ -2086,7 +2086,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Nihal Chachar (UC Quadir Pur) 68 houses. Livestock lost: 11 goats, 1 buffalo. Crops lost: 1. Other losses: 256kms of road, 2000 acres of wheat lost", 
       "uid": "u31564531", 
-      "aliases": "u31564534,u31564534"
+      "aliases": "u31564534,u31564534,u31564534"
     }
   }, 
   {
@@ -2108,7 +2108,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khan Muhammad Kori (UC Rahimabad). 65 houses of which 65 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513271", 
-      "aliases": "u31513262,u31513262,u31513266,u31513266"
+      "aliases": "u31513262,u31513262,u31513266,u31513266,u31513262"
     }
   }, 
   {
@@ -2119,7 +2119,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: G. Rasool Jatoi (Landhi) (UC Phulji). 43 houses of which 12 have been destroyed and 24 damaged. 24% of crops destroyed. Village is still flooded", 
       "uid": "u31514010", 
-      "aliases": "u31513987,u31513987"
+      "aliases": "u31513987,u31513987,u31513987"
     }
   }, 
   {
@@ -2130,7 +2130,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Allah Rakhyo Mallah (UC saeedabad). 150 houses of which 35 have been destroyed and 25 damaged. 27% of crops destroyed. Water has receded", 
       "uid": "u31513594", 
-      "aliases": "u31513586,u31513592"
+      "aliases": "u31513586,u31513592,u31513586"
     }
   }, 
   {
@@ -2152,7 +2152,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Wario Solangi (UC Bali Shah). 61 houses of which 10 have been destroyed and 12 damaged. 50% of crops destroyed. Village is still flooded", 
       "uid": "u31513942", 
-      "aliases": "u31513928,u31513920,u31513917,u31513928,u31513920,u31513920"
+      "aliases": "u31513928,u31513920,u31513917,u31513928,u31513920,u31513920,u31513917,u31513920,u31513928"
     }
   }, 
   {
@@ -2174,7 +2174,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dhani Bux Pahore (UC Rahimabad). 17 houses of which 17 have been destroyed. 100% of crops destroyed. Water has receded", 
       "uid": "u31513175", 
-      "aliases": "u31513181,u31513181,u31513181"
+      "aliases": "u31513181,u31513181,u31513181,u31513171,u31513181"
     }
   }, 
   {
@@ -2196,7 +2196,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Hizibullah Shah (UC Mahmoo-aa-Bagh). Details: Total 29 Houses of which 29 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133925", 
-      "aliases": ""
+      "aliases": "u32133926"
     }
   }, 
   {
@@ -2207,7 +2207,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Fareed Khan Khushik (UC Siyal). 25 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514660", 
-      "aliases": "u31514683,u31514654,u31514655,u31514683"
+      "aliases": "u31514683,u31514654,u31514655,u31514683,u31514683,u31514654"
     }
   }, 
   {
@@ -2218,7 +2218,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Pathan Mahar (UC Bhetoor), pop: 314 adults, 189 children. 65 houses: 0 destroyed and 6 damaged. Crops lost: 360 acres. Other losses: 310kms of road, 3 schools", 
       "uid": "u31564454", 
-      "aliases": "u31564451,u31564512,u31564451,u31564512"
+      "aliases": "u31564451,u31564512,u31564451,u31564512,u31564512,u31564451"
     }
   }, 
   {
@@ -2251,7 +2251,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khairo Mahar (UC Bhetoor), pop: 281 adults, 395 children. 81 houses: 3 destroyed and 6 damaged. Livestock lost: 6 goats, 1 cow, 2 buffalo. Crops lost: 300 acres. Other losses: 250kms of road, 2 schools, 1 poultry farm", 
       "uid": "u31564497", 
-      "aliases": "u31564439,u31564439"
+      "aliases": "u31564439,u31564439,u31564439,u31564439"
     }
   }, 
   {
@@ -2262,7 +2262,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dawachh village (UC Phulji). 27 houses of which 11 have been destroyed and 16 damaged. 16% of crops destroyed. Village is still flooded", 
       "uid": "u31514094", 
-      "aliases": "u31514074,u31514096,u31514074,u31514096"
+      "aliases": "u31514074,u31514096,u31514074,u31514096,u31514074,u31514096"
     }
   }, 
   {
@@ -2273,7 +2273,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Allan Machhi (UC saeedabad). 20 houses of which 20 have been destroyed and 20 damaged. 40% of crops destroyed. Water has receded", 
       "uid": "u31513578", 
-      "aliases": ""
+      "aliases": "u31513582"
     }
   }, 
   {
@@ -2306,7 +2306,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Meer Khan Chandio (UC Siyal). 30 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514333", 
-      "aliases": "u31514307,u31514291,u31514315"
+      "aliases": "u31514307,u31514291,u31514315,u31514291,u31514283,u31514315,u31514285"
     }
   }, 
   {
@@ -2328,7 +2328,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: yar mohammad balal (UC Bhanoth). 15 houses. 5% of crops destroyed. Water has receded", 
       "uid": "u31513428", 
-      "aliases": ""
+      "aliases": "u31513429,u31513429"
     }
   }, 
   {
@@ -2361,7 +2361,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Koro Jatoi (UC Siyal). 3 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514469", 
-      "aliases": "u31514499,u31514512"
+      "aliases": "u31514499,u31514512,u31514499,u31514512,u31514499"
     }
   }, 
   {
@@ -2372,7 +2372,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Nangar Khso (UC Shah Alam Shah Ji Wasi). 75 houses of which 75 have been destroyed. 45% of crops destroyed. Water has receded", 
       "uid": "u31513669", 
-      "aliases": "u31513672"
+      "aliases": "u31513672,u31513672,u31513664"
     }
   }, 
   {
@@ -2383,7 +2383,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gul Muhammad Kaladi (UC Garhi Dakho). 120 houses of which 120 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513074", 
-      "aliases": "u31513073,u31513073"
+      "aliases": "u31513073,u31513073,u31513073,u31513073"
     }
   }, 
   {
@@ -2394,7 +2394,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rato Khokhar (UC Khudabad). 80 houses of which 3 have been destroyed and 6 damaged. 65% of crops destroyed. Village is still flooded", 
       "uid": "u31513761", 
-      "aliases": ""
+      "aliases": "u31513772"
     }
   }, 
   {
@@ -2405,7 +2405,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Wadhan Mahar (UC Bhetoor), pop: 468 adults, 350 children. 105 houses: 4 destroyed and 6 damaged. Livestock lost: 40 goats, 4 cows, 2 buffalo. Crops lost: 850 acres. Other losses: 750kms of road, 2 schools, 6 poultry farms", 
       "uid": "u31564428", 
-      "aliases": "u31564488,u31564488"
+      "aliases": "u31564488,u31564488,u31564488"
     }
   }, 
   {
@@ -2427,7 +2427,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: V-Village (UC Hala-1). 361 houses of which 60 have been destroyed and 85 damaged. 3% of crops destroyed. Water has receded", 
       "uid": "u31513651", 
-      "aliases": "u31513650"
+      "aliases": "u31513650,u31513650"
     }
   }, 
   {
@@ -2438,7 +2438,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Haji Gaber Khan Khaskheli (UC Siyal). 30 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514667", 
-      "aliases": "u31514635,u31514665,u31514677,u31514677,u31514677"
+      "aliases": "u31514635,u31514665,u31514677,u31514677,u31514677,u31514665,u31514630"
     }
   }, 
   {
@@ -2449,7 +2449,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Peer Mohd Shahani (UC Mounder). 25 houses of which 14 have been destroyed and 6 damaged. 80% of crops destroyed. Village is still flooded", 
       "uid": "u31513799", 
-      "aliases": "u31513790,u31513790,u31513805"
+      "aliases": "u31513790,u31513790,u31513805,u31513790"
     }
   }, 
   {
@@ -2471,7 +2471,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ghul Muhammad Khoso (UC Naon Goth). 40 houses of which 13 have been destroyed and 12 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513846", 
-      "aliases": "u31513834,u31513831,u31513834"
+      "aliases": "u31513834,u31513831,u31513834,u31513831,u31513831,u31513855"
     }
   }, 
   {
@@ -2493,7 +2493,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Bahadur Chandio (UC Allahabad). 18 houses of which 16 have been destroyed and 2 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514101", 
-      "aliases": "u31514099,u31514099"
+      "aliases": "u31514099,u31514099,u31514099"
     }
   }, 
   {
@@ -2515,7 +2515,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Barochan ja Ghar (UC Mahmoo-aa-Bagh). 95 houses of which 95 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513166", 
-      "aliases": "u31513157,u31513161,u31513157"
+      "aliases": "u31513157,u31513161,u31513157,u31513157"
     }
   }, 
   {
@@ -2592,7 +2592,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Bag Chachar  (UC Pir Bux Shujrah). 40 houses of which 40 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512980", 
-      "aliases": "u31512977"
+      "aliases": "u31512977,u31512977"
     }
   }, 
   {
@@ -2603,7 +2603,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Jaam Bhurt (UC Bali Shah). 276 houses of which 23 have been destroyed and 27 damaged. 83% of crops destroyed. Village is still flooded", 
       "uid": "u31513945", 
-      "aliases": "u31513936"
+      "aliases": "u31513936,u31513936,u31513936"
     }
   }, 
   {
@@ -2614,7 +2614,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Karam Ali Chandio (UC Siyal). 18 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514337", 
-      "aliases": "u31514359"
+      "aliases": "u31514359,u31514340"
     }
   }, 
   {
@@ -2636,7 +2636,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mangrio Wahid  (UC Mian Sahib ). 80 houses of which 80 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512854", 
-      "aliases": "u31512852,u31512852"
+      "aliases": "u31512852,u31512852,u31512852"
     }
   }, 
   {
@@ -2647,7 +2647,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khanpur (UC Khanpur). Details: Total 5435 Houses. Village is still flooded", 
       "uid": "u32133938", 
-      "aliases": "u32133939"
+      "aliases": "u32133939,u32133939,u32133939"
     }
   }, 
   {
@@ -2680,7 +2680,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Soonharo (UC Garhi Tegho). 21 houses of which 21 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513350", 
-      "aliases": "u31513342,u31513355"
+      "aliases": "u31513342,u31513355,u31513355,u31513348"
     }
   }, 
   {
@@ -2735,7 +2735,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Old Syed Pur (UC Phulji). 26 houses of which 4 have been destroyed and 22 damaged. 22% of crops destroyed. Village is still flooded", 
       "uid": "u31514052", 
-      "aliases": "u31514032,u31514055,u31514032,u31514032"
+      "aliases": "u31514032,u31514055,u31514032,u31514032,u31514055,u31514032,u31514055,u31514032,u31514055"
     }
   }, 
   {
@@ -2757,7 +2757,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Kher Mohd Lashari (UC Siyal). 12 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514546", 
-      "aliases": "u31514597,u31514597,u31514585"
+      "aliases": "u31514597,u31514597,u31514585,u31514552,u31514597,u31514552,u31514585,u31514597"
     }
   }, 
   {
@@ -2779,7 +2779,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Sher Muhammad Brohi (UC Thanhiro). 120 houses of which 120 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512896", 
-      "aliases": "u31512893"
+      "aliases": "u31512893,u31512893"
     }
   }, 
   {
@@ -2801,7 +2801,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dara pur (UC Garhi Tegho). 61 houses of which 61 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513332", 
-      "aliases": "u31513340,u31513344,u31513340"
+      "aliases": "u31513340,u31513344,u31513340,u31513340"
     }
   }, 
   {
@@ -2823,7 +2823,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Tagani (UC Pir Bux Shujrah). 25 houses of which 25 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512952", 
-      "aliases": ""
+      "aliases": "u31512953,u31512953"
     }
   }, 
   {
@@ -2834,7 +2834,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ghulab Sheikh (UC Naon Goth). 35 houses of which 12 have been destroyed and 17 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513892", 
-      "aliases": "u31513871,u31513893,u31513893"
+      "aliases": "u31513871,u31513893,u31513893,u31513893"
     }
   }, 
   {
@@ -2889,7 +2889,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Karbali Jhangwari (UC Rahimabad). 35 houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513202", 
-      "aliases": ""
+      "aliases": "u31513192"
     }
   }, 
   {
@@ -2900,7 +2900,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: ghahoth (UC Bhanoth). 82 houses. 50% of crops destroyed. Village is still flooded", 
       "uid": "u31513418", 
-      "aliases": "u31513423,u31513408,u31513419,u31513408"
+      "aliases": "u31513423,u31513408,u31513419,u31513408,u31513423,u31513408"
     }
   }, 
   {
@@ -2922,7 +2922,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Shahnshah / Ghullab (UC saeedabad). 800 houses of which 80 have been destroyed and 200 damaged. 40% of crops destroyed. Water has receded", 
       "uid": "u31513576", 
-      "aliases": "u31513577,u31513581"
+      "aliases": "u31513577,u31513581,u31513577,u31513577"
     }
   }, 
   {
@@ -2933,7 +2933,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Allah Dito Chandio (UC Siyal). 17 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514344", 
-      "aliases": "u31514325,u31514325"
+      "aliases": "u31514325,u31514325,u31514325,u31514325"
     }
   }, 
   {
@@ -2944,7 +2944,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rahimabad (UC Rahimabad). 450 houses of which 150 have been destroyed and 350 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513226", 
-      "aliases": "u31513230,u31513230"
+      "aliases": "u31513230,u31513230,u31513230,u31513230"
     }
   }, 
   {
@@ -2966,7 +2966,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khuda Bux Jo (UC Siyal). 6 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514356", 
-      "aliases": "u31514338,u31514314,u31514338,u31514314"
+      "aliases": "u31514338,u31514314,u31514338,u31514314,u31514306,u31514314"
     }
   }, 
   {
@@ -2977,7 +2977,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gul Mohd Arain (UC Phulji). 9 houses of which 7 have been destroyed and 2 damaged. 2% of crops destroyed. Village is still flooded", 
       "uid": "u31513969", 
-      "aliases": "u31513996"
+      "aliases": "u31513996,u31513996"
     }
   }, 
   {
@@ -2988,7 +2988,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Sono Jatoe (UC Siyal). 17 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514349", 
-      "aliases": "u31514374,u31514371,u31514341,u31514371"
+      "aliases": "u31514374,u31514371,u31514341,u31514371,u31514341,u31514341"
     }
   }, 
   {
@@ -3010,7 +3010,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Sajan bughio (UC Khudabad). 262 houses of which 30 have been destroyed and 3 damaged. 40% of crops destroyed. Water has receded", 
       "uid": "u31513750", 
-      "aliases": "u31513751,u31513739"
+      "aliases": "u31513751,u31513739,u31513751"
     }
   }, 
   {
@@ -3021,7 +3021,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mahndani Khoso (UC Matiari-1). 15 houses of which 15 have been destroyed. 20% of crops destroyed. Water has receded", 
       "uid": "u31513720", 
-      "aliases": "u31513726"
+      "aliases": "u31513726,u31513715"
     }
   }, 
   {
@@ -3032,7 +3032,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Kalo Chandio (UC Siyal). 6 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514321", 
-      "aliases": "u31514273,u31514271,u31514273,u31514274"
+      "aliases": "u31514273,u31514271,u31514273,u31514274,u31514295"
     }
   }, 
   {
@@ -3054,7 +3054,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khair Mohd: Chachar (UC Quadir Pur), pop: 42 adults", 
       "uid": "u31564607", 
-      "aliases": "u31564604"
+      "aliases": "u31564604,u31564604"
     }
   }, 
   {
@@ -3098,7 +3098,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mollo Bushan Lakhiar (UC Shah punjo). 22 houses of which 12 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514225", 
-      "aliases": "u31514215,u31514215,u31514215"
+      "aliases": "u31514215,u31514215,u31514215,u31514215"
     }
   }, 
   {
@@ -3120,7 +3120,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Phital Band (UC Garhi Tegho). Details: Total 52 Houses of which 52 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134091", 
-      "aliases": "u32134090"
+      "aliases": "u32134090,u32134090,u32134090"
     }
   }, 
   {
@@ -3153,7 +3153,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Chiman Sukhpur (UC Garhi Tegho). Details: Total 160 Houses of which 160 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134047", 
-      "aliases": "u32134046"
+      "aliases": "u32134046,u32134046"
     }
   }, 
   {
@@ -3175,7 +3175,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gul Mohad Korejo (UC Siyal). 54 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514381", 
-      "aliases": ""
+      "aliases": "u31514379"
     }
   }, 
   {
@@ -3186,7 +3186,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Samano (UC Siyal). 14 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514316", 
-      "aliases": "u31514268,u31514288,u31514288"
+      "aliases": "u31514268,u31514288,u31514288,u31514288"
     }
   }, 
   {
@@ -3197,7 +3197,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mohd Khan Solangi (UC saeedabad). 50 houses of which 50 have been destroyed and 50 damaged. 35% of crops destroyed. Water has receded", 
       "uid": "u31513556", 
-      "aliases": "u31513551"
+      "aliases": "u31513551,u31513551,u31513557"
     }
   }, 
   {
@@ -3252,7 +3252,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dilawer Shujra (UC Rahimabad). Details: Total 82 Houses of which 82 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133988", 
-      "aliases": "u32133987,u32133987"
+      "aliases": "u32133987,u32133987,u32133987"
     }
   }, 
   {
@@ -3318,7 +3318,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Allahando Khokhar (UC Phulji). 21 houses of which 5 have been destroyed and 16 damaged. 16% of crops destroyed. Village is still flooded", 
       "uid": "u31514063", 
-      "aliases": "u31514078,u31514057,u31514078"
+      "aliases": "u31514078,u31514057,u31514078,u31514078,u31514078,u31514082"
     }
   }, 
   {
@@ -3329,7 +3329,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: dodo Kalhoro (UC Naon Goth). 33 houses of which 12 have been destroyed and 13 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513882", 
-      "aliases": "u31513863,u31513859,u31513863"
+      "aliases": "u31513863,u31513859,u31513863,u31513863,u31513859,u31513863,u31513863"
     }
   }, 
   {
@@ -3340,7 +3340,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dhani Bux Jatoi (UC Siyal). 16 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514486", 
-      "aliases": "u31514478,u31514478,u31514490,u31514490"
+      "aliases": "u31514478,u31514478,u31514490,u31514490,u31514478,u31514478,u31514539"
     }
   }, 
   {
@@ -3351,7 +3351,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ghulam ullah Jatoi (UC Siyal). 6 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514493", 
-      "aliases": "u31514498"
+      "aliases": "u31514498,u31514503"
     }
   }, 
   {
@@ -3373,7 +3373,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gul Pahore (UC Rahimabad). Details: Total 58 Houses of which 58 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133975", 
-      "aliases": ""
+      "aliases": "u32133974"
     }
   }, 
   {
@@ -3417,7 +3417,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Bhae Khan Sobhchio (UC saeedabad). 98 houses of which 98 have been destroyed and 9 damaged. 95% of crops destroyed. Water has receded", 
       "uid": "u31513634", 
-      "aliases": "u31513635"
+      "aliases": "u31513635,u31513632"
     }
   }, 
   {
@@ -3450,7 +3450,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Golo Faqir (UC Phulji). 119 houses of which 21 have been destroyed and 76 damaged. 76% of crops destroyed. Village is still flooded", 
       "uid": "u31514070", 
-      "aliases": "u31514088,u31514071,u31514088,u31514090,u31514088"
+      "aliases": "u31514088,u31514071,u31514088,u31514090,u31514088,u31514072,u31514088"
     }
   }, 
   {
@@ -3461,7 +3461,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dur Mohammed Lund (UC Siyal). 9 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514413", 
-      "aliases": "u31514443,u31514415,u31514415"
+      "aliases": "u31514443,u31514415,u31514415,u31514442"
     }
   }, 
   {
@@ -3483,7 +3483,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Arain Village (UC Phulji). 43 houses of which 9 have been destroyed and 12 damaged. 12% of crops destroyed. Village is still flooded", 
       "uid": "u31514008", 
-      "aliases": "u31514003,u31514003"
+      "aliases": "u31514003,u31514003,u31514003"
     }
   }, 
   {
@@ -3494,7 +3494,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: bhand mari (UC Shah punjo). 300 houses of which 275 have been destroyed and 25 damaged. 25% of crops destroyed. Village is still flooded", 
       "uid": "u31514166", 
-      "aliases": "u31514164"
+      "aliases": "u31514164,u31514164,u31514198,u31514173,u31514164"
     }
   }, 
   {
@@ -3505,7 +3505,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ilyas Jatoi (UC Siyal). 9 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514431", 
-      "aliases": "u31514402,u31514400,u31514402,u31514400,u31514402,u31514400"
+      "aliases": "u31514402,u31514400,u31514402,u31514400,u31514402,u31514400,u31514428,u31514402,u31514394,u31514400,u31514428"
     }
   }, 
   {
@@ -3516,7 +3516,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mohro Mari old (UC Garhi Tegho). 27 houses of which 27 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513356", 
-      "aliases": "u31513358"
+      "aliases": "u31513358,u31513358"
     }
   }, 
   {
@@ -3571,7 +3571,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: ravat chandio (UC Shah punjo). 69 houses of which 30 have been destroyed and 10 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514157", 
-      "aliases": "u31514163,u31514163"
+      "aliases": "u31514163,u31514163,u31514163,u31514163"
     }
   }, 
   {
@@ -3604,7 +3604,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dalil (UC Garhi Tegho). Details: Total 17 Houses of which 17 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134073", 
-      "aliases": "u32134072"
+      "aliases": "u32134072,u32134072,u32134072"
     }
   }, 
   {
@@ -3692,7 +3692,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Dost Khoso (UC Matiari-1). 15 houses of which 15 have been destroyed. 23% of crops destroyed. Water has receded", 
       "uid": "u31513689", 
-      "aliases": "u31513683,u31513690"
+      "aliases": "u31513683,u31513690,u31513690"
     }
   }, 
   {
@@ -3736,7 +3736,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dalo KT (UC saeedabad). 70 houses of which 70 have been destroyed. 60% of crops destroyed. Water has receded", 
       "uid": "u31513630", 
-      "aliases": "u31513631"
+      "aliases": "u31513631,u31513631"
     }
   }, 
   {
@@ -3791,7 +3791,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Arzi Magsi (UC Phulji). 17 houses of which 3 have been destroyed and 14 damaged. 14% of crops destroyed. Village is still flooded", 
       "uid": "u31514068", 
-      "aliases": "u31514053,u31514054,u31514045,u31514053"
+      "aliases": "u31514053,u31514054,u31514045,u31514053,u31514045,u31514054,u31514053,u31514045"
     }
   }, 
   {
@@ -3813,7 +3813,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dino Faqueer chandio (UC Naon Goth). 20 houses of which 7 have been destroyed and 6 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513921", 
-      "aliases": ""
+      "aliases": "u31513915"
     }
   }, 
   {
@@ -3824,7 +3824,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Abdual Ghafor Jattoi (UC Garhi Tegho). Details: Total 44 Houses of which 44 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134052", 
-      "aliases": "u32134053"
+      "aliases": "u32134053,u32134053"
     }
   }, 
   {
@@ -3846,7 +3846,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Garhi Tegho 2 (UC Garhi Tegho). 29 houses of which 29 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513347", 
-      "aliases": ""
+      "aliases": "u31513343"
     }
   }, 
   {
@@ -3857,7 +3857,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: kado korejo (UC Bhanoth). 16 houses of which 8 have been destroyed. 5% of crops destroyed. Water has receded", 
       "uid": "u31513455", 
-      "aliases": ""
+      "aliases": "u31513460"
     }
   }, 
   {
@@ -3890,7 +3890,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gulab Kahar  (UC Mian Sahib ). 29 houses of which 29 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512829", 
-      "aliases": ""
+      "aliases": "u31512828"
     }
   }, 
   {
@@ -3901,7 +3901,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Nooral Chandio (UC Siyal). 7 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514318", 
-      "aliases": "u31514326,u31514345"
+      "aliases": "u31514326,u31514345,u31514294,u31514326"
     }
   }, 
   {
@@ -3945,7 +3945,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: ghulam mohammad (UC Bhanoth). 35 houses. 5% of crops destroyed. Water has receded", 
       "uid": "u31513449", 
-      "aliases": "u31513448"
+      "aliases": "u31513448,u31513448"
     }
   }, 
   {
@@ -3967,7 +3967,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Bachoo Jafrani (UC Shah Alam Shah Ji Wasi). 16 houses of which 16 have been destroyed. 44% of crops destroyed. Water has receded", 
       "uid": "u31513673", 
-      "aliases": ""
+      "aliases": "u31513674"
     }
   }, 
   {
@@ -3978,7 +3978,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gulab Sheikh (UC Siyal). 35 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514336", 
-      "aliases": "u31514361,u31514342,u31514312"
+      "aliases": "u31514361,u31514342,u31514312,u31514312,u31514312,u31514342"
     }
   }, 
   {
@@ -3989,7 +3989,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Muhammad Tahir Khero (UC Mian Sahib ). 50 houses of which 50 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512843", 
-      "aliases": "u31512842,u31512842"
+      "aliases": "u31512842,u31512842,u31512842,u31512842"
     }
   }, 
   {
@@ -4000,7 +4000,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Bux Mastoi (UC Siyal). 23 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514254", 
-      "aliases": "u31514233,u31514281,u31514233,u31514234"
+      "aliases": "u31514233,u31514281,u31514233,u31514234,u31514281,u31514263,u31514281,u31514263"
     }
   }, 
   {
@@ -4022,7 +4022,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mithal Jatoi (UC Siyal). 16 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514452", 
-      "aliases": "u31514501,u31514483,u31514483"
+      "aliases": "u31514501,u31514483,u31514483,u31514491,u31514501,u31514501,u31514491"
     }
   }, 
   {
@@ -4033,7 +4033,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: gulab jo goth (UC Shah punjo). 30 houses of which 30 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514178", 
-      "aliases": ""
+      "aliases": "u31514170,u31514193"
     }
   }, 
   {
@@ -4044,7 +4044,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dalil (UC Garhi Tegho). 17 houses of which 17 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513359", 
-      "aliases": "u31513345,u31513354"
+      "aliases": "u31513345,u31513354,u31513354,u31513345"
     }
   }, 
   {
@@ -4055,7 +4055,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Muhram Jatoi (UC Siyal). 5 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514535", 
-      "aliases": "u31514549"
+      "aliases": "u31514549,u31514492,u31514549"
     }
   }, 
   {
@@ -4066,7 +4066,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gahno Khan Jatoi (UC Siyal). 51 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514224", 
-      "aliases": "u31514223"
+      "aliases": "u31514223,u31514265,u31514223"
     }
   }, 
   {
@@ -4088,7 +4088,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Jalal Khoso (UC Shah Alam Shah Ji Wasi). 45 houses of which 45 have been destroyed. 67% of crops destroyed. Water has receded", 
       "uid": "u31513668", 
-      "aliases": "u31513665,u31513660"
+      "aliases": "u31513665,u31513660,u31513660,u31513665,u31513660"
     }
   }, 
   {
@@ -4099,7 +4099,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: mirapur (UC Bhanoth). 252 houses of which 21 have been destroyed. 25% of crops destroyed. Water has receded", 
       "uid": "u31513479", 
-      "aliases": "u31513474,u31513481"
+      "aliases": "u31513474,u31513481,u31513487,u31513474"
     }
   }, 
   {
@@ -4121,7 +4121,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mohammed Bux (UC Siyal). 119 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514261", 
-      "aliases": "u31514264"
+      "aliases": "u31514264,u31514262"
     }
   }, 
   {
@@ -4143,7 +4143,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Fateh Pur (UC Phulji). 51 houses of which 6 have been destroyed and 44 damaged. 44% of crops destroyed. Village is still flooded", 
       "uid": "u31514012", 
-      "aliases": "u31514014,u31514035,u31514014"
+      "aliases": "u31514014,u31514035,u31514014,u31514014,u31514014,u31514035,u31514035,u31514014"
     }
   }, 
   {
@@ -4165,7 +4165,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Naon Goth (UC Naon Goth). 400 houses of which 121 have been destroyed and 57 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513842", 
-      "aliases": "u31513839,u31513864,u31513839"
+      "aliases": "u31513839,u31513864,u31513839,u31513853,u31513839"
     }
   }, 
   {
@@ -4198,7 +4198,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: dhani bux balal (UC Bhanoth). 8 houses. 6% of crops destroyed. Water has receded", 
       "uid": "u31513432", 
-      "aliases": "u31513427,u31513438,u31513438"
+      "aliases": "u31513427,u31513438,u31513438,u31513438,u31513427,u31513427"
     }
   }, 
   {
@@ -4220,7 +4220,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: New Goth (UC Garhi Dakho). 18 houses of which 18 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513081", 
-      "aliases": "u31513080"
+      "aliases": "u31513080,u31513080"
     }
   }, 
   {
@@ -4231,7 +4231,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mevo Bozdar (UC Jarwar), pop: 235 adults, 135 children. 45 houses: 2 destroyed and 5 damaged. Crops lost: 100 acres. Other losses: 80kms of road", 
       "uid": "u31564371", 
-      "aliases": "u31564370,u31564370"
+      "aliases": "u31564370,u31564370,u31564370"
     }
   }, 
   {
@@ -4242,7 +4242,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rato Sondharo (UC Rahimabad). Details: Total 35 Houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134002", 
-      "aliases": "u32134003,u32134003,u32134003"
+      "aliases": "u32134003,u32134003,u32134003,u32134003"
     }
   }, 
   {
@@ -4253,7 +4253,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Peer Fazul Haq (UC saeedabad). 200 houses of which 15 have been destroyed and 25 damaged. 35% of crops destroyed. Water has receded", 
       "uid": "u31513596", 
-      "aliases": "u31513590,u31513597"
+      "aliases": "u31513590,u31513597,u31513597"
     }
   }, 
   {
@@ -4275,7 +4275,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Bahawal Jiskani (UC Bhetoor), pop: 475 adults, 310 children. 109 houses: 30 destroyed and 31 damaged. Livestock lost: 41 goats, 10 sheep, 12 cows, 9 buffalo. Crops lost: 310 acres. Other losses: 310kms of road, 1 school", 
       "uid": "u31564468", 
-      "aliases": "u31564465,u31564465,u31564465"
+      "aliases": "u31564465,u31564465,u31564465,u31564465,u31564465"
     }
   }, 
   {
@@ -4286,7 +4286,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Wazeer rind (UC Bhanoth). 15 houses. 65% of crops destroyed. Water has receded", 
       "uid": "u31513421", 
-      "aliases": "u31513426"
+      "aliases": "u31513426,u31513426,u31513413"
     }
   }, 
   {
@@ -4352,7 +4352,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Allah Jurio Jatoi (UC Siyal). 9 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514385", 
-      "aliases": "u31514425"
+      "aliases": "u31514425,u31514425"
     }
   }, 
   {
@@ -4374,7 +4374,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Saeed Khan Shahani (UC Mounder). 28 houses of which 16 have been destroyed and 12 damaged. 62% of crops destroyed. Village is still flooded", 
       "uid": "u31513819", 
-      "aliases": "u31513830,u31513830"
+      "aliases": "u31513830,u31513830,u31513830"
     }
   }, 
   {
@@ -4385,7 +4385,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Morand Lakho (UC Shah punjo). 22 houses of which 22 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514214", 
-      "aliases": "u31514202,u31514181,u31514202"
+      "aliases": "u31514202,u31514181,u31514202,u31514202,u31514181,u31514186,u31514202"
     }
   }, 
   {
@@ -4407,7 +4407,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: warayal mohano (UC Hala Old). 12 houses and 2 damaged. 79% of crops destroyed. Water has receded", 
       "uid": "u31513523", 
-      "aliases": "u31513532"
+      "aliases": "u31513532,u31513532"
     }
   }, 
   {
@@ -4440,7 +4440,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Korro (UC Siyal). 10 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514327", 
-      "aliases": "u31514278,u31514301,u31514279,u31514282,u31514279"
+      "aliases": "u31514278,u31514301,u31514279,u31514282,u31514279,u31514282,u31514301,u31514301"
     }
   }, 
   {
@@ -4473,7 +4473,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khuda Bux Shahani (UC Mounder). 15 houses of which 11 have been destroyed and 9 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513822", 
-      "aliases": "u31513843,u31513824,u31513843,u31513824"
+      "aliases": "u31513843,u31513824,u31513843,u31513824,u31513845,u31513824"
     }
   }, 
   {
@@ -4506,7 +4506,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Waris Mallah (UC Siyal). 16 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514463", 
-      "aliases": "u31514432,u31514432,u31514459"
+      "aliases": "u31514432,u31514432,u31514459,u31514432,u31514477"
     }
   }, 
   {
@@ -4539,7 +4539,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Habibullah Chachar (UC Quadir Pur) 153 houses. Livestock lost: 70 cows, 23 buffalo. Crops lost: 23. Other losses: 425kms of road, 20100 acres of wheat lost", 
       "uid": "u31564532", 
-      "aliases": ""
+      "aliases": "u31564529,u31564529"
     }
   }, 
   {
@@ -4550,7 +4550,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mangio Chhachar (UC saeedabad). 80 houses of which 10 have been destroyed and 20 damaged. 60% of crops destroyed. Water has receded", 
       "uid": "u31513602", 
-      "aliases": "u31513606"
+      "aliases": "u31513606,u31513612"
     }
   }, 
   {
@@ -4572,7 +4572,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: chahwan (UC Shah punjo). 65 houses of which 30 have been destroyed and 10 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514149", 
-      "aliases": "u31514147,u31514147"
+      "aliases": "u31514147,u31514147,u31514147"
     }
   }, 
   {
@@ -4583,7 +4583,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Sonhri (UC Siyal). 35 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514293", 
-      "aliases": "u31514275,u31514244"
+      "aliases": "u31514275,u31514244,u31514244,u31514275"
     }
   }, 
   {
@@ -4627,7 +4627,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Achar Malah (UC Allahabad). 9 houses of which 9 have been destroyed. 63% of crops destroyed. Village is still flooded", 
       "uid": "u31514121", 
-      "aliases": "u31514114,u31514093,u31514097,u31514114,u31514093"
+      "aliases": "u31514114,u31514093,u31514097,u31514114,u31514093,u31514097,u31514114,u31514097,u31514093"
     }
   }, 
   {
@@ -4671,7 +4671,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mevo balal (UC Bhanoth). 40 houses of which 3 have been destroyed. 12% of crops destroyed. Water has receded", 
       "uid": "u31513435", 
-      "aliases": ""
+      "aliases": "u31513441"
     }
   }, 
   {
@@ -4682,7 +4682,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Garhi Budhal (UC Garhi Dakho). 95 houses of which 95 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513093", 
-      "aliases": "u31513091"
+      "aliases": "u31513091,u31513091"
     }
   }, 
   {
@@ -4704,7 +4704,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mir Muhammad Pahore (UC Rahimabad). 225 houses of which 225 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513183", 
-      "aliases": "u31513193,u31513193"
+      "aliases": "u31513193,u31513193,u31513193"
     }
   }, 
   {
@@ -4726,7 +4726,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Hashim Kaher (UC Mian Sahib ). 50 houses of which 50 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512835", 
-      "aliases": "u31512834"
+      "aliases": "u31512834,u31512834"
     }
   }, 
   {
@@ -4748,7 +4748,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Walo Dari (UC Bhetoor), pop: 715 adults, 415 children. 160 houses: 4 destroyed and 10 damaged. Livestock lost: 4 goats, 2 sheep, 1 cow, 1 buffalo. Crops lost: 350 acres. Other losses: 350kms of road, 2 schools", 
       "uid": "u31564511", 
-      "aliases": "u31564510,u31564510"
+      "aliases": "u31564510,u31564510,u31564510"
     }
   }, 
   {
@@ -4759,7 +4759,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Hassan Chano (UC Thanhiro). 115 houses of which 85 have been destroyed and 35 damaged. 80% of crops destroyed. Village is still flooded", 
       "uid": "u31512908", 
-      "aliases": "u31512909"
+      "aliases": "u31512909,u31512909"
     }
   }, 
   {
@@ -4792,7 +4792,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Railway Station (UC Hala-1). 600 houses of which 150 have been destroyed and 200 damaged. 0% of crops destroyed. Water has receded", 
       "uid": "u31513638", 
-      "aliases": "u31513633"
+      "aliases": "u31513633,u31513633"
     }
   }, 
   {
@@ -4847,7 +4847,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rawat Bughio (UC Siyal). 16 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514598", 
-      "aliases": "u31514619,u31514607,u31514568,u31514568"
+      "aliases": "u31514619,u31514607,u31514568,u31514568,u31514568,u31514619,u31514607"
     }
   }, 
   {
@@ -4858,7 +4858,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rehmtullah Mastoi (UC Siyal). 4 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514408", 
-      "aliases": "u31514362"
+      "aliases": "u31514362,u31514393"
     }
   }, 
   {
@@ -4880,7 +4880,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gror Pahore (UC Rahimabad). 58 houses of which 58 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513214", 
-      "aliases": "u31513209,u31513209,u31513209"
+      "aliases": "u31513209,u31513209,u31513209,u31513209"
     }
   }, 
   {
@@ -4902,7 +4902,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Raes Bahram Khan (UC Rahimabad). 60 houses of which 60 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513223", 
-      "aliases": "u31513217,u31513217"
+      "aliases": "u31513217,u31513217,u31513217,u31513217"
     }
   }, 
   {
@@ -4946,7 +4946,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: pandhi lakho (UC Shah punjo). 15 houses of which 15 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514208", 
-      "aliases": ""
+      "aliases": "u31514185,u31514185,u31514187"
     }
   }, 
   {
@@ -4990,7 +4990,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ibrahim Mahr (UC Bhetoor), pop: 319 adults, 340 children. 110 houses: 40 destroyed and 20 damaged. Livestock lost: 26 goats, 13 cows, 14 buffalo. Crops lost: 484 acres. Other losses: 484kms of road, 1 school, 7 poultry farms", 
       "uid": "u31564406", 
-      "aliases": "u31564404,u31564404,u31564404"
+      "aliases": "u31564404,u31564404,u31564404,u31564463,u31564404"
     }
   }, 
   {
@@ -5012,7 +5012,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Shero Mahar (UC Bhetoor), pop: 63 adults, 67 children. 23 houses: 6 destroyed and 4 damaged. Livestock lost: 11 goats, 3 cows, 3 buffalo. Crops lost: 70 acres. Other losses: 70kms of road, 1 poultry farm", 
       "uid": "u31564461", 
-      "aliases": "u31564402,u31564402"
+      "aliases": "u31564402,u31564402,u31564402,u31564402"
     }
   }, 
   {
@@ -5023,7 +5023,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Qabool Chachar (UC Quadir Pur), pop: 59 adults", 
       "uid": "u31564615", 
-      "aliases": "u31564613,u31564613"
+      "aliases": "u31564613,u31564613,u31564613"
     }
   }, 
   {
@@ -5078,7 +5078,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khuda Bux Mahar (UC Bhetoor), pop: 216 adults, 219 children. 75 houses: 10 destroyed and 7 damaged. Livestock lost: 13 goats, 7 cows, 5 buffalo. Crops lost: 703 acres. Other losses: 509kms of road, 1 school, 6 poultry farms", 
       "uid": "u31564462", 
-      "aliases": "u31564400"
+      "aliases": "u31564400,u31564400,u31564401"
     }
   }, 
   {
@@ -5089,7 +5089,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mohammad Ali Shah kacho (UC Matiari-1). 30 houses of which 30 have been destroyed. 33% of crops destroyed. Water has receded", 
       "uid": "u31513718", 
-      "aliases": "u31513713,u31513705"
+      "aliases": "u31513713,u31513705,u31513714"
     }
   }, 
   {
@@ -5133,7 +5133,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Salih Admani (UC Siyal). 42 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514527", 
-      "aliases": ""
+      "aliases": "u31514563,u31514580"
     }
   }, 
   {
@@ -5166,7 +5166,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Chatto Machhi (UC Siyal). 12 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514653", 
-      "aliases": "u31514650,u31514615,u31514615"
+      "aliases": "u31514650,u31514615,u31514615,u31514604,u31514606,u31514650"
     }
   }, 
   {
@@ -5188,7 +5188,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Nik Muhammad Teghani (UC Garhi Tegho). 32 houses of which 32 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513346", 
-      "aliases": ""
+      "aliases": "u31513338"
     }
   }, 
   {
@@ -5199,7 +5199,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gul Hassan Machhi (UC Siyal). 22 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514553", 
-      "aliases": "u31514602,u31514562,u31514562,u31514611,u31514602"
+      "aliases": "u31514602,u31514562,u31514562,u31514611,u31514602,u31514562,u31514611,u31514611,u31514602"
     }
   }, 
   {
@@ -5221,7 +5221,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Noor Ali khoso (UC saeedabad). 3 houses of which 3 have been destroyed and 3 damaged. 13% of crops destroyed. Water has receded", 
       "uid": "u31513558", 
-      "aliases": "u31513569"
+      "aliases": "u31513569,u31513569,u31513569"
     }
   }, 
   {
@@ -5232,7 +5232,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mir Mallah (UC Phulji). 12 houses of which 4 have been destroyed and 8 damaged. 8% of crops destroyed. Village is still flooded", 
       "uid": "u31514013", 
-      "aliases": "u31514009,u31514031,u31514009,u31514009"
+      "aliases": "u31514009,u31514031,u31514009,u31514009,u31514031,u31514009,u31514009,u31514031"
     }
   }, 
   {
@@ -5375,7 +5375,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Phital Band (UC Garhi Tegho). 52 houses of which 52 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513380", 
-      "aliases": "u31513392,u31513392"
+      "aliases": "u31513392,u31513392,u31513387"
     }
   }, 
   {
@@ -5441,7 +5441,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Redho Sardar pur (UC Rahimabad). 250 houses of which 250 have been destroyed. 100% of crops destroyed. Water has receded", 
       "uid": "u31513264", 
-      "aliases": ""
+      "aliases": "u31513257,u31513257"
     }
   }, 
   {
@@ -5452,7 +5452,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: mari mohammad khan (UC Bhanoth). 135 houses. 10% of crops destroyed. Water has receded", 
       "uid": "u31513454", 
-      "aliases": "u31513453,u31513447"
+      "aliases": "u31513453,u31513447,u31513453,u31513453"
     }
   }, 
   {
@@ -5463,7 +5463,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Moosa Shar (UC Bali Shah). 228 houses of which 36 have been destroyed and 23 damaged. 65% of crops destroyed. Village is still flooded", 
       "uid": "u31513948", 
-      "aliases": "u31513924"
+      "aliases": "u31513924,u31513924,u31513924,u31513925"
     }
   }, 
   {
@@ -5474,7 +5474,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Liaq Kori (UC Rahimabad). 30 houses of which 30 have been destroyed. 100% of crops destroyed. Water has receded", 
       "uid": "u31513275", 
-      "aliases": "u31513281,u31513270"
+      "aliases": "u31513281,u31513270,u31513270,u31513270"
     }
   }, 
   {
@@ -5496,7 +5496,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: sona bindi village (UC Shah punjo). 79 houses of which 59 have been destroyed and 1 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514175", 
-      "aliases": "u31514177,u31514209,u31514177"
+      "aliases": "u31514177,u31514209,u31514177,u31514209,u31514177,u31514197,u31514183"
     }
   }, 
   {
@@ -5518,7 +5518,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: chandan  (UC Shah punjo). 50 houses of which 25 have been destroyed and 9 damaged. 90% of crops destroyed. Village is still flooded", 
       "uid": "u31514161", 
-      "aliases": "u31514168,u31514168,u31514160"
+      "aliases": "u31514168,u31514168,u31514160,u31514194,u31514168,u31514160,u31514168,u31514160"
     }
   }, 
   {
@@ -5562,7 +5562,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dilawar Dero (UC Phulji). 106 houses of which 23 have been destroyed and 67 damaged. 83% of crops destroyed. Village is still flooded", 
       "uid": "u31513970", 
-      "aliases": "u31513946,u31513946,u31513949"
+      "aliases": "u31513946,u31513946,u31513949,u31513946"
     }
   }, 
   {
@@ -5584,7 +5584,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Murad Chachar (UC Quadir Pur) 35 houses", 
       "uid": "u31564608", 
-      "aliases": ""
+      "aliases": "u31564612,u31564612"
     }
   }, 
   {
@@ -5617,7 +5617,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mitho Machhi (UC Naon Goth). 40 houses of which 12 have been destroyed and 9 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513838", 
-      "aliases": "u31513861"
+      "aliases": "u31513861,u31513861,u31513861"
     }
   }, 
   {
@@ -5628,7 +5628,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Paryal Chandio (UC Siyal). 20 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514303", 
-      "aliases": "u31514286,u31514256"
+      "aliases": "u31514286,u31514256,u31514256"
     }
   }, 
   {
@@ -5639,7 +5639,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Latif Chachar (UC Quadir Pur) 20 houses. Livestock lost: 5 goats, 3 cows, 2 buffalo. Crops lost: 2. Other losses: 170kms of road, 1155 acres of wheat lost", 
       "uid": "u31564533", 
-      "aliases": ""
+      "aliases": "u31564536"
     }
   }, 
   {
@@ -5661,7 +5661,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Jumo Chahwan (UC Khudabad). 125 houses of which 6 have been destroyed and 3 damaged. 72% of crops destroyed. Village is still flooded", 
       "uid": "u31513774", 
-      "aliases": "u31513765,u31513765,u31513783"
+      "aliases": "u31513765,u31513765,u31513783,u31513765"
     }
   }, 
   {
@@ -5672,7 +5672,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Movil Allah Bux (UC Naon Goth). 23 houses of which 9 have been destroyed and 3 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513902", 
-      "aliases": "u31513918,u31513904"
+      "aliases": "u31513918,u31513904,u31513904"
     }
   }, 
   {
@@ -5727,7 +5727,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Loung Chewan  (UC Siyal). 17 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514213", 
-      "aliases": "u31514236"
+      "aliases": "u31514236,u31514236"
     }
   }, 
   {
@@ -5738,7 +5738,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Daro (UC Rahimabad). 50 houses of which 50 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513268", 
-      "aliases": ""
+      "aliases": "u31513263"
     }
   }, 
   {
@@ -5749,7 +5749,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Sher Khoso (UC Matiari-1). 25 houses of which 25 have been destroyed. 23% of crops destroyed. Water has receded", 
       "uid": "u31513719", 
-      "aliases": ""
+      "aliases": "u31513711,u31513722,u31513716"
     }
   }, 
   {
@@ -5771,7 +5771,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dil Murad Mangi (UC Rahimabad). 29 houses of which 29 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513207", 
-      "aliases": "u31513218,u31513218"
+      "aliases": "u31513218,u31513218,u31513218"
     }
   }, 
   {
@@ -5782,7 +5782,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Saeed khan Maree (UC saeedabad). 8 houses of which 8 have been destroyed and 8 damaged. 18% of crops destroyed. Water has receded", 
       "uid": "u31513549", 
-      "aliases": "u31513560,u31513561"
+      "aliases": "u31513560,u31513561,u31513561,u31513560"
     }
   }, 
   {
@@ -5815,7 +5815,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Allah Bux Kaher  (UC Mian Sahib ). 30 houses of which 30 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512850", 
-      "aliases": "u31512851"
+      "aliases": "u31512851,u31512851"
     }
   }, 
   {
@@ -5826,7 +5826,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Murad Raho (UC saeedabad). 50 houses of which 50 have been destroyed. 50% of crops destroyed. Water has receded", 
       "uid": "u31513622", 
-      "aliases": "u31513623,u31513621,u31513623"
+      "aliases": "u31513623,u31513621,u31513623,u31513621,u31513623"
     }
   }, 
   {
@@ -5837,7 +5837,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ali Gul Machhi (UC Siyal). 8 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514629", 
-      "aliases": "u31514663"
+      "aliases": "u31514663,u31514622,u31514622"
     }
   }, 
   {
@@ -5870,7 +5870,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Jan Mohd: Barani (UC Quadir Pur) 104 houses. Livestock lost: 4 goats, 2 sheep. Other losses: 223kms of road", 
       "uid": "u31564551", 
-      "aliases": "u31564549,u31564549"
+      "aliases": "u31564549,u31564549,u31564549,u31564549"
     }
   }, 
   {
@@ -5892,7 +5892,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Syedu (UC Quadir Pur) 26 houses: 26 destroyed. Livestock lost: 2 goats, 3 cows, 4 buffalo. Crops lost: 67 acres. Other losses: 200kms of road", 
       "uid": "u31564526", 
-      "aliases": "u31564523"
+      "aliases": "u31564523,u31564523,u31564523"
     }
   }, 
   {
@@ -5936,7 +5936,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Loi (UC Garhi Tegho). 55 houses of which 55 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513385", 
-      "aliases": ""
+      "aliases": "u31513371,u31513371"
     }
   }, 
   {
@@ -5980,7 +5980,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Noor Mohd Farooki (UC Siyal). 30 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514624", 
-      "aliases": "u31514564,u31514613,u31514573,u31514564,u31514566"
+      "aliases": "u31514564,u31514613,u31514573,u31514564,u31514566,u31514566,u31514573"
     }
   }, 
   {
@@ -5991,7 +5991,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Nisar Ahmed Shujra (UC Rahimabad). 110 houses of which 110 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513267", 
-      "aliases": "u31513276,u31513276,u31513276"
+      "aliases": "u31513276,u31513276,u31513276,u31513276"
     }
   }, 
   {
@@ -6013,7 +6013,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rato Pahore (UC Rahimabad). 35 houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513242", 
-      "aliases": "u31513250,u31513250"
+      "aliases": "u31513250,u31513250,u31513250"
     }
   }, 
   {
@@ -6057,7 +6057,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ranjho Shar (UC Bali Shah). 66 houses of which 3 have been destroyed and 7 damaged. 45% of crops destroyed. Village is still flooded", 
       "uid": "u31513933", 
-      "aliases": "u31513955,u31513941"
+      "aliases": "u31513955,u31513941,u31513955,u31513941,u31513955"
     }
   }, 
   {
@@ -6068,7 +6068,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: hyder shah (UC Faqir Noohthinai). 30 houses of which 8 have been destroyed and 9 damaged. 21% of crops destroyed. Water has receded", 
       "uid": "u31513505", 
-      "aliases": "u31513496"
+      "aliases": "u31513496,u31513496"
     }
   }, 
   {
@@ -6101,7 +6101,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Daro (UC Rahimabad). Details: Total 50 Houses of which 50 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134018", 
-      "aliases": "u32134017,u32134017"
+      "aliases": "u32134017,u32134017,u32134017,u32134017"
     }
   }, 
   {
@@ -6145,7 +6145,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Ranjho Brohi (UC Khanpur). Details: Total 110 Houses. Water has receded", 
       "uid": "u32133949", 
-      "aliases": ""
+      "aliases": "u32133950"
     }
   }, 
   {
@@ -6189,7 +6189,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Jhalo (UC Siyal). 113 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514590", 
-      "aliases": "u31514581,u31514627,u31514643,u31514643"
+      "aliases": "u31514581,u31514627,u31514643,u31514643,u31514582,u31514643"
     }
   }, 
   {
@@ -6255,7 +6255,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Noor Katy (UC saeedabad). 4 houses of which 4 have been destroyed and 4 damaged. 0% of crops destroyed. Water has receded", 
       "uid": "u31513573", 
-      "aliases": "u31513572,u31513566"
+      "aliases": "u31513572,u31513566,u31513572,u31513566,u31513572"
     }
   }, 
   {
@@ -6288,7 +6288,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Muhd: khan vighio (UC Naon Goth). 50 houses of which 12 have been destroyed and 7 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513876", 
-      "aliases": ""
+      "aliases": "u31513852,u31513848,u31513852,u31513848"
     }
   }, 
   {
@@ -6332,7 +6332,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Murade Shar (UC Garhi Dakho). 38 houses of which 38 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513052", 
-      "aliases": "u31513053,u31513053"
+      "aliases": "u31513053,u31513053,u31513053"
     }
   }, 
   {
@@ -6343,7 +6343,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Makoro Pahore (UC Pir Bux Shujrah). 60 houses of which 60 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512969", 
-      "aliases": ""
+      "aliases": "u31512968,u31512968"
     }
   }, 
   {
@@ -6365,7 +6365,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Morand Ogahi (UC Garhi Tegho). 15 houses of which 15 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513367", 
-      "aliases": ""
+      "aliases": "u31513361,u31513374"
     }
   }, 
   {
@@ -6387,7 +6387,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rasool Bux Khoso (UC Matiari-1). 25 houses of which 25 have been destroyed. 45% of crops destroyed. Water has receded", 
       "uid": "u31513696", 
-      "aliases": "u31513694,u31513687"
+      "aliases": "u31513694,u31513687,u31513694"
     }
   }, 
   {
@@ -6398,7 +6398,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gul Burriro (UC Garhi Dakho). 180 houses of which 180 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513096", 
-      "aliases": "u31513094,u31513095,u31513094"
+      "aliases": "u31513094,u31513095,u31513094,u31513094,u31513095,u31513094"
     }
   }, 
   {
@@ -6420,7 +6420,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Kando Sondiro (UC Rahimabad). Details: Total 62 Houses of which 62 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134034", 
-      "aliases": "u32134033,u32134033"
+      "aliases": "u32134033,u32134033,u32134033,u32134033"
     }
   }, 
   {
@@ -6453,7 +6453,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Mir Kehar (UC Mian Sahib ). 22 houses of which 22 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512887", 
-      "aliases": "u31512890"
+      "aliases": "u31512890,u31512890"
     }
   }, 
   {
@@ -6464,7 +6464,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Abdullah Soomro (UC Mian Sahib ). 25 houses of which 25 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512838", 
-      "aliases": "u31512839"
+      "aliases": "u31512839,u31512839"
     }
   }, 
   {
@@ -6486,7 +6486,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Wahid Bux Maree (UC saeedabad). 4 houses of which 4 have been destroyed and 4 damaged. 45% of crops destroyed. Water has receded", 
       "uid": "u31513585", 
-      "aliases": ""
+      "aliases": "u31513575,u31513575,u31513584"
     }
   }, 
   {
@@ -6508,7 +6508,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Talo Fato Pahore  (UC Pir Bux Shujrah). 60 houses of which 60 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512965", 
-      "aliases": ""
+      "aliases": "u31512964,u31512964"
     }
   }, 
   {
@@ -6574,7 +6574,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: allah bux balal (UC Bhanoth). 90 houses of which 1 have been destroyed. 20% of crops destroyed. Water has receded", 
       "uid": "u31513425", 
-      "aliases": "u31513417"
+      "aliases": "u31513417,u31513417,u31513417"
     }
   }, 
   {
@@ -6596,7 +6596,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gulan Jo Goth (UC Shah punjo). 80 houses of which 25 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514125", 
-      "aliases": "u31514124,u31514141,u31514141"
+      "aliases": "u31514124,u31514141,u31514141,u31514124"
     }
   }, 
   {
@@ -6618,7 +6618,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dandani Lakhir (UC Naon Goth). 20 houses of which 13 have been destroyed and 7 damaged. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513829", 
-      "aliases": "u31513851,u31513826"
+      "aliases": "u31513851,u31513826,u31513851"
     }
   }, 
   {
@@ -6640,7 +6640,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Kirar Jatoi (UC Siyal). 8 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514506", 
-      "aliases": "u31514464,u31514494,u31514464"
+      "aliases": "u31514464,u31514494,u31514464,u31514513,u31514494,u31514513"
     }
   }, 
   {
@@ -6651,7 +6651,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Bandi Shah pur (UC Garhi Tegho). 38 houses of which 38 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513337", 
-      "aliases": "u31513325,u31513328,u31513328"
+      "aliases": "u31513325,u31513328,u31513328,u31513328"
     }
   }, 
   {
@@ -6673,7 +6673,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Yousif Mahar (UC Bhetoor), pop: 122 adults, 52 children. 25 houses: 2 destroyed and 3 damaged. Livestock lost: 4 goats, 1 sheep, 2 cows, 1 buffalo. Crops lost: 235 acres. Other losses: 230kms of road, 1 school", 
       "uid": "u31564494", 
-      "aliases": "u31564434"
+      "aliases": "u31564434,u31564434"
     }
   }, 
   {
@@ -6684,7 +6684,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Phita Band (UC Mahmoo-aa-Bagh). Details: Total 54 Houses of which 54 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133919", 
-      "aliases": ""
+      "aliases": "u32133918"
     }
   }, 
   {
@@ -6739,7 +6739,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Haji Muhammad Achar (UC Rahimabad). 32 houses of which 32 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513225", 
-      "aliases": "u31513221,u31513221"
+      "aliases": "u31513221,u31513221,u31513221,u31513221"
     }
   }, 
   {
@@ -6750,7 +6750,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Budha pur (UC Allahabad). 26 houses of which 22 have been destroyed and 4 damaged. 30% of crops destroyed. Village is still flooded", 
       "uid": "u31514108", 
-      "aliases": ""
+      "aliases": "u31514135"
     }
   }, 
   {
@@ -6772,7 +6772,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: rano laghari (UC Bhanoth). 28 houses of which 4 have been destroyed. 6% of crops destroyed. Water has receded", 
       "uid": "u31513469", 
-      "aliases": "u31513463,u31513476"
+      "aliases": "u31513463,u31513476,u31513463"
     }
   }, 
   {
@@ -6783,7 +6783,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Kot Shaho (UC Garhi Tegho). 16 houses of which 16 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513383", 
-      "aliases": "u31513390"
+      "aliases": "u31513390,u31513375,u31513375"
     }
   }, 
   {
@@ -6805,7 +6805,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Balochoo Jatoi (UC Siyal). 23 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514391", 
-      "aliases": "u31514383"
+      "aliases": "u31514383,u31514389,u31514416"
     }
   }, 
   {
@@ -6926,7 +6926,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Rahim Khan Lund (UC Siyal). 5 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514623", 
-      "aliases": "u31514672"
+      "aliases": "u31514672,u31514672,u31514662,u31514616"
     }
   }, 
   {
@@ -7014,7 +7014,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Haji Muhammad Achar (UC Rahimabad). Details: Total 32 Houses of which 32 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133992", 
-      "aliases": "u32133991"
+      "aliases": "u32133991,u32133991"
     }
   }, 
   {
@@ -7333,7 +7333,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Faiz Chandio (UC Mian Sahib ). 30 houses of which 30 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512833", 
-      "aliases": ""
+      "aliases": "u31512832"
     }
   }, 
   {
@@ -7344,7 +7344,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: kehar colony (UC Bhanoth). 30 houses. 12% of crops destroyed. Water has receded", 
       "uid": "u31513445", 
-      "aliases": "u31513444"
+      "aliases": "u31513444,u31513444"
     }
   }, 
   {
@@ -7377,7 +7377,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Chanesar Khaskeli (UC saeedabad). 4 houses of which 4 have been destroyed and 4 damaged. 16% of crops destroyed. Water has receded", 
       "uid": "u31513574", 
-      "aliases": ""
+      "aliases": "u31513570"
     }
   }, 
   {
@@ -7399,7 +7399,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Munshi Qalal (UC Pir Bux Shujrah). 35 houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31512956", 
-      "aliases": ""
+      "aliases": "u31512957"
     }
   }, 
   {
@@ -7410,7 +7410,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Sojhar godri (UC Shah Alam Shah Ji Wasi). 6 houses of which 6 have been destroyed. 50% of crops destroyed. Water has receded", 
       "uid": "u31513663", 
-      "aliases": ""
+      "aliases": "u31513656,u31513662"
     }
   }, 
   {
@@ -7476,7 +7476,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: juman khyber (UC Hala Old). 15 houses of which 5 have been destroyed and 2 damaged. 10% of crops destroyed. Water has receded", 
       "uid": "u31513492", 
-      "aliases": "u31513502,u31513502"
+      "aliases": "u31513502,u31513502,u31513502"
     }
   }, 
   {
@@ -7542,7 +7542,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khaskheli (UC Phulji). 24 houses of which 7 have been destroyed and 17 damaged. 17% of crops destroyed. Village is still flooded", 
       "uid": "u31514086", 
-      "aliases": ""
+      "aliases": "u31514062,u31514067"
     }
   }, 
   {
@@ -7553,7 +7553,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Tahir Muhammad Pathan (UC Rahimabad). 48 houses of which 48 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513180", 
-      "aliases": ""
+      "aliases": "u31513185"
     }
   }, 
   {
@@ -7586,7 +7586,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Abudl Talib Shah (UC Khudabad). 1600 houses of which 20 have been destroyed and 7 damaged. 67% of crops destroyed. Water has receded", 
       "uid": "u31513742", 
-      "aliases": "u31513729,u31513746"
+      "aliases": "u31513729,u31513746,u31513746,u31513746"
     }
   }, 
   {
@@ -7597,7 +7597,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Punhal Syal (UC Bhetoor), pop: 79 adults, 75 children. 21 houses: 2 destroyed and 2 damaged. Livestock lost: 1 sheep. Crops lost: 190 acres. Other losses: 60kms of road, 2 schools", 
       "uid": "u31564508", 
-      "aliases": ""
+      "aliases": "u31564450"
     }
   }, 
   {
@@ -7663,7 +7663,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Garhi Tegho 2 (UC Garhi Tegho). Details: Total 29 Houses of which 29 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32134066", 
-      "aliases": ""
+      "aliases": "u32134067"
     }
   }, 
   {
@@ -7685,7 +7685,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Bakhtiar Khan Shahani (UC Mounder). 46 houses of which 23 have been destroyed and 21 damaged. 75% of crops destroyed. Village is still flooded", 
       "uid": "u31513821", 
-      "aliases": ""
+      "aliases": "u31513825,u31513809"
     }
   }, 
   {
@@ -7916,7 +7916,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Malkani Shareef (UC Siyal). 8 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514593", 
-      "aliases": ""
+      "aliases": "u31514642"
     }
   }, 
   {
@@ -7949,7 +7949,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gul Sher Pahore (UC Rahimabad). 38 houses of which 38 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513293", 
-      "aliases": "u31513306"
+      "aliases": "u31513306,u31513306,u31513306"
     }
   }, 
   {
@@ -7982,7 +7982,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Jurio Chano (UC Rahimabad). 27 houses of which 27 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513290", 
-      "aliases": ""
+      "aliases": "u31513294"
     }
   }, 
   {
@@ -7993,7 +7993,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Khakan Jo (UC Siyal). 21 houses. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31514350", 
-      "aliases": ""
+      "aliases": "u31514305,u31514332,u31514305"
     }
   }, 
   {
@@ -8026,7 +8026,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Gror Pahore (UC Rahimabad). Details: Total 58 Houses of which 58 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133986", 
-      "aliases": ""
+      "aliases": "u32133984"
     }
   }, 
   {
@@ -8070,7 +8070,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: haji salih (UC Hala Old). 10 houses and 6 damaged. 24% of crops destroyed. Water has receded", 
       "uid": "u31513537", 
-      "aliases": "u31513526"
+      "aliases": "u31513526,u31513526"
     }
   }, 
   {
@@ -8092,7 +8092,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: sulaiman wasan (UC Faqir Noohthinai). 12 houses. 30% of crops destroyed. Village is still flooded", 
       "uid": "u31513518", 
-      "aliases": ""
+      "aliases": "u31513524"
     }
   }, 
   {
@@ -8158,7 +8158,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Dhung (UC Garhi Tegho). 43 houses of which 43 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u31513377", 
-      "aliases": "u31513364,u31513378"
+      "aliases": "u31513364,u31513378,u31513372,u31513372"
     }
   }, 
   {
@@ -8202,7 +8202,7 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Wahid Bux Pahore (UC Thanhiro). 57 houses. 40% of crops destroyed. Water has receded", 
       "uid": "u31512917", 
-      "aliases": ""
+      "aliases": "u31512916"
     }
   }, 
   {
@@ -8334,6 +8334,589 @@
       "processed": false, 
       "sms": "Initial Damage Assessment: Arbab Pahore (UC Garhi Dakho). Details: Total 22 Houses of which 22 have been destroyed. 100% of crops destroyed. Village is still flooded", 
       "uid": "u32133892", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 783, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:13:12", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Mir Kehar (UC Mian Sahib ). Details: Total 22 Houses of which 22 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133809", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 784, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:14:38", 
+      "processed": false, 
+      "sms": "Fl", 
+      "uid": "u31511892", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 785, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:14:40", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Panjoo Bagh (UC Hussain Beli), pop: 191 adults, 201 children. 43 houses: 2 destroyed. Livestock lost: 4 sheep, 2 cows. Crops lost: 2 acres. Other losses: 22kms of road, 10 schools", 
+      "uid": "u31564346", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 786, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:14:50", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Mahar, Rahoojo, Ghulm Marfanni (UC Jaggan). 91 houses of which 91 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512763", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 787, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:16:02", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Wandh, Pahar, Dad Karim (UC Jaggan). 101 houses of which 67 have been destroyed and 35 damaged. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512756", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 788, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:16:34", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Nadir Khan Lund (UC Jarwar), pop: 62 adults, 40 children. 8 houses: 1 destroyed and 3 damaged. Crops lost: 125 acres. Other losses: 90kms of road, 3 schools", 
+      "uid": "u31564374", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 789, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:17:14", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Jan Mohd: Chaker Brohi (UC Sultan kot). 158 houses of which 158 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512811", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 790, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:17:43", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Jan Muhammad Pahore (UC Garhi Dakho). Details: Total 38 Houses of which 38 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133864", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 791, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:17:59", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Shah Muhammad Brohi (UC Garhi Dakho). 172 houses of which 172 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31513035", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 792, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:18:37", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Nabi Bux Kalhoro (UC Garhi Dakho). Details: Total 30 Houses. 40% of crops destroyed. Village is still flooded", 
+      "uid": "u32133873", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 793, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:19:02", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Panhwar Nando (UC Thanhiro). Details: Total 43 Houses of which 20 have been destroyed and 23 damaged. 100% of crops destroyed. Water has receded", 
+      "uid": "u32133824", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 794, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:19:04", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Murad Udhano (UC Pir Bux Shujrah). Details: Total 50 Houses of which 5 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133837", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 795, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:19:34", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Shahan Bandani (UC Garhi Tegho). 95 houses of which 95 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31513368", 
+      "aliases": "u31513381"
+    }
+  }, 
+  {
+    "pk": 796, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:22:58", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Nebahoo Bukejo, Raban, Sono Brohi (UC Jaggan). 50 houses of which 50 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512764", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 797, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:24:59", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Misri Chachar (UC M Ghoto), pop: 75 adults, 80 children. 15 houses: 15 destroyed. Livestock lost: 3 goats, 2 cows. Crops lost: 212 acres. Other losses: 212kms of road", 
+      "uid": "u31564293", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 798, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:28:15", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Mevo Chhachar (UC saeedabad). 250 houses of which 15 have been destroyed and 35 damaged. 38% of crops destroyed. Water has receded", 
+      "uid": "u31513609", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 799, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:29:14", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Kalo Sher (UC Mian Sahib ). 30 houses of which 30 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512831", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 800, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:30:25", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Taj Muhammad Brohi (UC Khanpur). Details: Total 125 Houses. Water has receded", 
+      "uid": "u32133951", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 801, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:33:09", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Yar Mohd Jamali (UC Siyal). 9 houses. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31514528", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 802, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:38:29", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Ghulam Qadir Jatoi (UC Mahmoo-aa-Bagh). Details: Total 35 Houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133915", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 803, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:39:26", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Lakh Mir Merbahar  (UC Mian Sahib ). 23 houses of which 23 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512861", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 804, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:40:02", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Gh. Hyder Khoso, Sharif, Laloo (UC Jaggan). 76 houses of which 76 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512772", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 805, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:40:11", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Ab: Ghani Marfani, Saleh Rind, Chachar (UC Jaggan). 56 houses of which 56 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512784", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 806, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:41:17", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Haji Shahdad Jatoi (UC Pir Bux Shujrah). 40 houses of which 40 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512962", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 807, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:42:50", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Dasti, Wali Md Pahore (UC Jaggan). 58 houses of which 58 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512783", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 808, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:45:05", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Shabir Badani (UC Pir Bux Shujrah). Details: Total 25 Houses of which 25 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133844", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 809, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:47:45", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Ghani Bux Brohi (UC Garhi Dakho). Details: Total 23 Houses of which 23 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133871", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 810, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:50:02", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Aami Kalhoro (UC Mian Sahib ). Details: Total 75 Houses of which 75 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133785", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 811, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:56:11", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Miani (UC Pir Bux Shujrah). Details: Total 130 Houses of which 80 have been destroyed and 50 damaged. 100% of crops destroyed. Water has receded", 
+      "uid": "u32133828", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 812, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 15:58:50", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Ibrahim Pahore (UC Garhi Dakho). Details: Total 20 Houses of which 20 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133882", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 813, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:02:24", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Shah Garhi (UC Garhi Tegho). 45 houses of which 45 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31513384", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 814, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:04:41", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Makoro Kalhoro (UC Mian Sahib ). Details: Total 200 Houses of which 170 have been destroyed and 30 damaged. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133770", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 815, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:05:17", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Hazoor Bux Kalar (UC Mian Sahib ). Details: Total 39 Houses of which 39 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133808", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 816, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:11:26", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Coral Ismail (UC Pir Bux Shujrah). Details: Total 55 Houses of which 55 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133852", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 817, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:11:36", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Kalhora (UC Pir Bux Shujrah). 60 houses of which 60 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512943", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 818, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:13:50", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Haji Amir Nindwani (UC Pir Bux Shujrah). Details: Total 52 Houses of which 52 have been destroyed. 100% of crops destroyed. Water has receded", 
+      "uid": "u32133827", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 819, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:15:55", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Rakhaio Mahar (UC Khanpur). Details: Total 62 Houses. Village is still flooded", 
+      "uid": "u32133940", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 820, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:18:24", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Shahal Sadhayo ,Gorshani Shaikh (UC Hamayoon). 215 houses of which 140 have been destroyed and 30 damaged. 100% of crops destroyed.", 
+      "uid": "u31512729", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 821, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:18:36", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Sawan Chachar  (UC Pir Bux Shujrah). 40 houses of which 40 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512933", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 822, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:19:06", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: A. Haque Bhayo, Barkat, Mureed Lund (UC Jaggan). 96 houses of which 96 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512762", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 823, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:19:11", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Channa, Katta, Khohara, Burira (UC Hamayoon). 120 houses of which 97 have been destroyed and 23 damaged. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512733", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 824, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:21:29", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Baka Mugheri,Rano Mugheri,Shah Mohd Kharose,Din Mohd Brohi (UC Janah wah). 96 houses of which 96 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512792", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 825, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:22:24", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Tagani (UC Pir Bux Shujrah). Details: Total 25 Houses of which 25 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133841", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 826, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:23:55", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: M Murad Gabol (UC Jarwar), pop: 610 adults, 360 children. 140 houses: 1 destroyed and 4 damaged. Livestock lost: 6 sheep. Crops lost: 100 acres. Other losses: 40kms of road, 3 schools", 
+      "uid": "u31564367", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 827, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:23:59", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Gharhi Tego Khan (UC Pir Bux Shujrah). Details: Total 70 Houses of which 70 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133842", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 828, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:27:05", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Dhani Bux Pahore (UC Rahimabad). Details: Total 17 Houses of which 17 have been destroyed. 100% of crops destroyed. Water has receded", 
+      "uid": "u32133962", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 829, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:29:15", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Hayat Brohi (UC Thanhiro). 50 houses. 60% of crops destroyed. Village is still flooded", 
+      "uid": "u31512905", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 830, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:34:23", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Punhal Khan Jafri (UC Pir Bux Shujrah). Details: Total 36 Houses of which 36 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133845", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 831, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:39:44", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Mir Kaher (UC Mian Sahib ). 35 houses of which 35 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512855", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 832, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:46:51", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Ameenai Shah (UC Khudabad). 4000 houses of which 22 have been destroyed and 25 damaged. 43% of crops destroyed. Water has receded", 
+      "uid": "u31513737", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 833, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 16:49:53", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Azim Abad  (UC Mian Sahib ). 30 houses of which 30 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u31512818", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 834, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 17:02:10", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Arija (UC Garhi Dakho). Details: Total 40 Houses of which 40 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133865", 
+      "aliases": ""
+    }
+  }, 
+  {
+    "pk": 835, 
+    "model": "crowdflower.sms", 
+    "fields": {
+      "date_seen": "2010-09-05 17:09:00", 
+      "processed": false, 
+      "sms": "Initial Damage Assessment: Bambal (UC Mian Sahib ). Details: Total 44 Houses of which 44 have been destroyed. 100% of crops destroyed. Village is still flooded", 
+      "uid": "u32133805", 
       "aliases": ""
     }
   }

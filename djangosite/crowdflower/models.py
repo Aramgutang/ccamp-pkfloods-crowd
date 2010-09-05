@@ -16,3 +16,8 @@ class SMS(models.Model):
     
     def is_actionable(self):
         return not self.sms.startswith('Initial Damage Assessment:')
+    
+    def alias_count(self):
+        if not self.aliases:
+            return 0
+        return len(self.aliases.split(','))

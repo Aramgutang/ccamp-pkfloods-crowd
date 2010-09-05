@@ -5,7 +5,7 @@ class LocationAdmin(admin.ModelAdmin):
     pass
 
 class ActionableAdmin(admin.ModelAdmin):
-    pass
+    list_display = ('sms', 'language', 'junk_text',)
 
 class DamageAssessmentAdmin(admin.ModelAdmin):
     fieldsets = (
