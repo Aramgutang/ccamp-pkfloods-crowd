@@ -5,6 +5,7 @@ class SMS(models.Model):
     sms = models.TextField()
     aliases = models.TextField()
     processed = models.BooleanField(default=False)
+    date_seen = models.DateTimeField()
     
     def __unicode__(self):
         return self.sms

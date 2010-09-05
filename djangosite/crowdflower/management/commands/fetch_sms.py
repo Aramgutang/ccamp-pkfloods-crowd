@@ -1,4 +1,5 @@
 import random, time
+from datetime import datetime
 from optparse import make_option, OptionError
 
 from django.conf import settings
@@ -35,24 +36,29 @@ class Command(BaseCommand):
         
         if verbosity:
             print 'Log in successful.'
-        while not limit or saved < limit:
-            job = CrowdFlowerParser(fetcher.fetch_one())
-            if not SMS.objects.filter(uid=job.uid).count():
-                if not SMS.objects.filter(sms=job.sms).count():
-                    SMS.objects.create(uid=job.uid, sms=job.sms)
-                    if verbosity > 1:
-                        print '%s: %s' % (job.uid, job.sms)
-                    saved += 1
+        try:
+            while not limit or saved < limit:
+                job = CrowdFlowerParser(fetcher.fetch_one())
+                if not SMS.objects.filter(uid=job.uid).count():
+                    if not SMS.objects.filter(sms=job.sms).count():
+                        SMS.objects.create(uid=job.uid, sms=job.sms, date_seen=datetime.now())
+                        if verbosity > 1:
+                            print '%s: %s' % (job.uid, job.sms)
+                        saved += 1
+                    else:
+                        existing = SMS.objects.get(sms=job.sms)
+                        existing.aliases = '%s,%s' % (existing.aliases, job.uid) if existing.aliases else job.uid
+                        existing.save()
+                        duplicates += 1
+                        print 'Received duplicate of SMS %s.' % existing.uid
                 else:
-                    existing = SMS.objects.get(sms=job.sms)
-                    existing.aliases = '%s,%s' % (existing.aliases, job.uid) if existing.aliases else job.uid
-                    existing.save()
+                    existing = SMS.objects.get(uid=job.uid)
+                    existing.date_seen = datetime.now()
                     duplicates += 1
-                    print 'Received duplicate of SMS %s.' % existing.uid
-            elif verbosity > 1:
-                if SMS.objects.filter(uid=job.uid).count():
-                    print 'Duplicate UID received, ignoring.'
-                duplicates += 1
-            time.sleep(random.randint(0,5))
+                    if verbosity > 1:
+                        print 'Duplicate UID received, ignoring.'
+                time.sleep(random.randint(0,5))
+        except KeyboardInterrupt:
+            pass
         if verbosity:
             print 'Done: %s SMSs saved (%s duplicates ignored).' % (saved, duplicates)
