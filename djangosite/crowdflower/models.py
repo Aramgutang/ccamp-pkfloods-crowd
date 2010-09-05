@@ -7,5 +7,12 @@ class SMS(models.Model):
     processed = models.BooleanField(default=False)
     date_seen = models.DateTimeField()
     
+    class Meta:
+        verbose_name = 'SMS'
+        verbose_name_plural = 'SMSs'
+    
     def __unicode__(self):
         return self.sms
+    
+    def is_actionable(self):
+        return not self.sms.startswith('Initial Damage Assessment:')

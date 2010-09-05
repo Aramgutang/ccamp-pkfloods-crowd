@@ -1,8 +1,25 @@
+import simplejson, re, urllib, urllib2
+
+from django.conf import settings
 from django.db import models
 
 from crowdflower.models import SMS
 
-LANGUAGES = ['English', 'Urdu', 'Pashtun', 'Other',]
+LANGUAGES = {
+    'en': 'English',
+    'ur': 'Urdu',
+    'ps': 'Pashto',
+    '--': 'Other',
+    }
+
+class ProcessedMessage(models.Model):
+    sms = models.ForeignKey(SMS)
+    
+    class Meta:
+        abstract = True
+    
+    def __unicode__(self):
+        return self.sms.sms
 
 class UnifiedCouncil(models.Model):
     name = models.CharField(max_length=180)
@@ -31,17 +48,40 @@ class Location(models.Model):
         else:
             return self.village.name
 
-class Actionable(models.Model):
-    sms = models.ForeignKey(SMS)
-    language = models.CharField(max_length=180, choices=zip(LANGUAGES, LANGUAGES))
+flrx = re.compile(r'^fl\s*(?P<text>.*)$', re.I)
+
+class Actionable(ProcessedMessage):
+    language = models.CharField(max_length=180, choices=LANGUAGES.items(), blank=True)
     junk_text = models.BooleanField(default=False)
     
-    def __unicode__(self):
-        return self.sms.sms
-
-class DamageAssessment(models.Model):
-    sms = models.ForeignKey(SMS)
+    def process_and_save(self):
+        self.set_language()
+        self.detect_junk()
+        self.save()
     
+    def set_language(self):
+        text = self.sms.sms
+        if text.lower().startswith('fl'):
+            text = flrx.match(text).groups('text')[0]
+        key = 'key=%s&' % settings.GOOGLE_API_KEY if hasattr(settings, 'GOOGLE_API_KEY') else  ''
+        url = ('http://ajax.googleapis.com/ajax/services/language/detect'
+               '?v=1.0&q=%s&%suserip=127.0.0.1' % (urllib.urlencode(text), key))
+        request = urllib2.Request(url, None, {'Referer': getattr(settings, 'GOOGLE_API_DOMAIN', 'http://localhost:8000')})
+        results = simplejson.load(urllib2.urlopen(request))
+        if float(results['responseData']['confidence']) > 0.01:
+            language = results['responseData']['language']
+            if language in LANGUAGES.keys():
+                self.language = language
+            else:
+                self.language = '--'
+    
+    def detect_junk(self):
+        if len(self.sms.sms) < 10:
+            self.junk_text = True
+        if 'test' in self.sms.sms and len(self.sms.sms) < 20:
+            self.junk_text = True
+
+class DamageAssessment(ProcessedMessage):
     text_location = models.CharField(max_length=180, blank=True)
     text_population = models.CharField(max_length=180, blank=True)
     text_houses = models.CharField(max_length=180, blank=True)
@@ -65,5 +105,6 @@ class DamageAssessment(models.Model):
     
     still_flooded = models.NullBooleanField()
     
-    def __unicode__(self):
-        return self.sms.sms
+    def process_and_save(self):
+        
+        self.save()
