@@ -4,7 +4,7 @@ from django.conf import settings
 from django.core.management.base import BaseCommand
 from django.core.exceptions import ImproperlyConfigured
 
-from crowdflower import CrowdFlowerFetcher
+from crowdflower.fetcher import CrowdFlowerFetcher
 
 class Command(BaseCommand):
     option_list = BaseCommand.option_list + (
