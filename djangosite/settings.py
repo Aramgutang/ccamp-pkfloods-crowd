@@ -100,3 +100,11 @@ INSTALLED_APPS = (
 
 CROWDFLOWER_URL = 'https://crowdflower.com/judgments/mob/18242'
 CROWDFLOWER_EMAIL = 'test@example.com'
+
+GOOGLE_API_KEY = 'YOUR_KEY'
+GOOGLE_API_DOMAIN = 'YOUR_URL'
+
+try:
+    from local_settings import *
+except ImportError:
+    pass

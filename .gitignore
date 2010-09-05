@@ -2,5 +2,7 @@
 *.pyo
 djangosite/dev.db
 djangosite/dev.db-journal
+djangosite/local_settings.py
 .project
 .pydevproject
+.settings*
