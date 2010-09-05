@@ -1,3 +1,5 @@
 from django.db import models
 
-# Create your models here.
+class SMS(models.Model):
+    uid = models.CharField(max_length=50)
+    sms = models.TextField()

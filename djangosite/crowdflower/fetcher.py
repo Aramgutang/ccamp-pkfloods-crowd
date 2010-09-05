@@ -28,9 +28,9 @@ class CrowdFlowerFetcher(object):
     def log_in(self):
         try:
             request = urllib2.Request(self.mob_url)
-            response = self.opener.open(request)
+            self.opener.open(request)
         except urllib2.HTTPError, auth_error:
-            print 'First error (code %s)' % auth_error.code
+            #print 'First error (code %s)' % auth_error.code
             if auth_error.code != 401:
                 raise auth_error
             login_post = {
@@ -41,9 +41,9 @@ class CrowdFlowerFetcher(object):
             try:
                 request = urllib2.Request(LOGIN_URL, urllib.urlencode(login_post.items()))
                 request.add_header('Referer', self.mob_url)
-                response = self.opener.open(request)
+                self.opener.open(request)
             except urllib2.HTTPError, redirect_error:
-                print 'Second error (code %s)' % redirect_error.code
+                #print 'Second error (code %s)' % redirect_error.code
                 if 300 <= redirect_error.code < 400 and 'location' in redirect_error.headers:
                     self.url = 'https://crowdflower.com%s' % redirect_error.headers['location']
                     request = urllib2.Request(self.url)
