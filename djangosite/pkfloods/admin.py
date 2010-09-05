@@ -19,7 +19,7 @@ class DamageAssessmentAdmin(admin.ModelAdmin):
             'fields': ('text_population', 'population_total', 'population_adults', 'population_children')
         }),
         ('Houses', {
-            'fields': ('text_houses', 'publication_date', 'status')
+            'fields': ('text_houses', 'houses_destroyed', 'houses_damaged')
         }),
         ('Other losses', {
             'fields': ('text_other_losses', 'lost_roads', 'lost_livestock', 'lost_schools', 'lost_crops_acres', 'lost_crops_percentage')

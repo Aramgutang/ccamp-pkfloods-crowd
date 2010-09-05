@@ -50,6 +50,7 @@ class DamageAssessment(models.Model):
     
     location = models.ForeignKey(Location, null=True)
     
+    population_total = models.IntegerField(null=True, blank=True)
     population_adults = models.IntegerField(null=True, blank=True)
     population_children = models.IntegerField(null=True, blank=True)
     
